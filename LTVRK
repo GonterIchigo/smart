@@ -141,7 +141,7 @@ http://45.228.232.204:16000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="CULTURA",HISTORY PREMIUM 
 http://190.131.247.82:8000/play/a004
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="CULTURA",H2
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87241
+http://190.27.253.211:8000/play/a072/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="CULTURA",H2 OP2
 http://190.61.102.67:8000/play/a021
 #EXTINF:-1 tvg-logo="https://cdn.pngsumo.com/discovery-channel-info-discovery-press-web-discovery-logo-png-2767_591.png" group-title="CULTURA",DISCOVERY CHANNEL MX
@@ -151,16 +151,16 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4069
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/tv1_sci-white.png" group-title="CULTURA",DISCOVERY SCIENCE  
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/63943
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CULTURA",DISCOVERY H&H
-http://190.131.228.59:8000/play/a0re/index.m3u8
+http://190.27.253.211:8000/play/a07l/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CULTURA",DISCOVERY H&H HD
-http://190.61.102.67:31589/play/a03g/index.m3u8
+http://45.228.232.204:16000/play/a081/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/240-2403856_hgtv-logo-hgtv-app.png" group-title="CULTURA",HGTV
 http://playhispano.org:25461/live/skytvperu/e7aSxSPEmR/88220.ts
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/240-2403856_hgtv-logo-hgtv-app.png" group-title="CULTURA",HGTV OP2
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8340
-#EXTINF:-1 tvg-logo="http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86210" group-title="CULTURA",DISCOVERY TURBO
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86210
-#EXTINF:-1 tvg-logo="http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86210" group-title="CULTURA",DISCOVERY TURBO OP 2
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png" group-title="CULTURA",DISCOVERY TURBO
+http://190.27.253.211:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png" group-title="CULTURA",DISCOVERY TURBO OP 2
 http://190.131.228.59:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",DISCOVERY WORLD
 http://45.228.232.204:16000/play/a07z/index.m3u8
@@ -177,15 +177,15 @@ http://190.61.102.67:8000/play/a061
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png" group-title="CULTURA",DISCOVERY TLC
 http://190.131.228.59:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png" group-title="CULTURA",DISCOVERY TLC OP 2
-http://168.194.171.33:8000/play/a01h/index.m3u8
+http://190.83.119.67:8000/play/a0sd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-6TeTUuHgsxI/VrV2aR1efMI/AAAAAAAAGs0/f-yRhAXo-RU/s640/Tooncas_logo_jpg.png" group-title="CARTOONS",TOONCAST
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87106
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-6TeTUuHgsxI/VrV2aR1efMI/AAAAAAAAGs0/f-yRhAXo-RU/s640/Tooncas_logo_jpg.png" group-title="CARTOONS",TOONCAST OP 2
 http://45.228.232.204:16000/play/a066/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="CARTOONS",DISCOVERY KIDS MX
-ttp://190.131.228.59:8000/play/a0rd/index.m3u8
+http://190.131.228.59:8000/play/a0rd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="CARTOONS",DISCOVERY KIDS PREMIUM
 http://45.228.232.204:16000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="CARTOONS",NICKELODEO
