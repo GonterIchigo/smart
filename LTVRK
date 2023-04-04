@@ -96,9 +96,9 @@ http://190.27.253.211:8000/play/a09z/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="NOVELAS",PASIONES OP 3
 http://190.131.247.82:8000/play/a00i
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s400/rojo.png" group-title="NOVELAS",TLNOVELAS 
-http://190.61.102.67:8000/play/a07k
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/tlnovelas_m.png" group-title="NOVELAS",UNIVISION TLNOVELAS
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/123914
+http://190.61.102.67:8000/play/a07k
 #EXTINF:-1 tvg-logo="http://167.114.173.24:25461/edson2022/edson2022/43174" group-title="NOVELAS",GLITZ
 http://167.114.173.24:25461/edson2022/edson2022/43174
 #EXTINF:-1 tvg-logo="http://167.114.173.24:25461/edson2022/edson2022/43174" group-title="NOVELAS",GLITZ OP2 
