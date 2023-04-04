@@ -108,7 +108,7 @@ http://190.27.253.211:8000/play/a06e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="NOVELAS",TELEMUNDO INTERNACIONAL OP2 
 http://45.228.232.204:16000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="NOVELAS",TELEMUNDO PUERTO RICO  
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/88225
+http://45.166.92.22:58001/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1920px-LogoNTyLR.svg.png" group-title="NOVELAS",RCN  
 http://190.131.247.82:8000/play/a016
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1920px-LogoNTyLR.svg.png" group-title="NOVELAS",RCN OP2
