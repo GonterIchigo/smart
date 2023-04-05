@@ -274,7 +274,7 @@ http://mytvstream.net:8080/vince/vince/57639
 #EXTINF:-1 tvg-logo="https://graffica.info/wp-content/uploads/2018/12/comedy_central_2018_logo-1024x507.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
 http://190.131.247.82:8000/play/a00p
 #EXTINF:-1 tvg-logo="https://graffica.info/wp-content/uploads/2018/12/comedy_central_2018_logo-1024x507.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL OP2
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/88208
+http://mytvstream.net:8080/vince/vince/83529
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="ENTRETENIMIENTO",STAR CHANNEL HD
 http://45.228.232.204:16000/play/a070/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="ENTRETENIMIENTO",STAR CHANNEL HD OP2
@@ -292,49 +292,49 @@ http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1767
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="ENTRETENIMIENTO",SONY CHANNEL
 http://45.228.232.204:16000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="ENTRETENIMIENTO",SONY CHANNEL OP2
-http://190.131.228.59:8000/play/a04h/index.m3u8
+http://190.27.253.211:8000/play/a05d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="ENTRETENIMIENTO",UNIVERSAL HD
 http://45.228.232.204:16000/play/a078/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="ENTRETENIMIENTO",UNIVERSAL HD OP2
 http://190.131.228.59:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg" group-title="ENTRETENIMIENTO",STUDIO UNIVERSAL
-http://190.131.228.59:8000/play/a0jg/index.m3u8
+http://190.27.253.211:8000/play/a07d/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg" group-title="ENTRETENIMIENTO",STUDIO UNIVERSAL OP2
-http://181.129.186.36:8089/play/a04e/index.m3u8
+http://45.228.232.204:16000/play/a047/index.m3u8
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="ENTRETENIMIENTO",WARNER HD
-http://190.131.228.59:8000/play/a05p/index.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="ENTRETENIMIENTO",WARNER HD OP2
 http://45.228.232.204:16000/play/a06m/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="ENTRETENIMIENTO",TNT
-http://181.129.186.36:8089/play/a03v/index.m3u8
+http://190.27.253.211:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="ENTRETENIMIENTO",TNT OP2
 http://45.228.232.204:16000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TNT_Serie.svg/649px-TNT_Serie.svg.png" group-title="ENTRETENIMIENTO",TNT SERIES
-http://190.61.102.67:31589/play/a00m/index.m3u8
+http://190.27.253.211:8000/play/a07s/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TNT_Serie.svg/649px-TNT_Serie.svg.png" group-title="ENTRETENIMIENTO",TNT SERIES OP2
 http://190.131.228.59:8000/play/a0rj/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png" group-title="ENTRETENIMIENTO",SPACE
-http://181.129.186.36:8089/play/a03w/index.m3u8
+http://190.27.253.211:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png" group-title="ENTRETENIMIENTO",SPACE OP2
 http://45.228.232.204:16000/play/a07p/index.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.c98339a52309fce05f22a0b662130448?rik=PEEuqf5950bXyQ&riu=http%3a%2f%2fcablez.com.mx%2fwp-content%2fuploads%2f2017%2f03%2fPanico.png&ehk=ComIDC%2bW1CLDRnfsoOxzkytrCBfWOWHUx4%2fNIvrmLtA%3d&risl=&pid=ImgRaw&r=0" group-title="ENTRETENIMIENTO",PANICO
 http://167.114.173.24:25461/edson2022/edson2022/726
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1280px-A%26E-Network-Logo.svg.png" group-title="ENTRETENIMIENTO",A&E
-http://streamgotv.us:2999/betowa31/8095/33
+http://181.78.24.187:8006/play/a002/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1280px-A%26E-Network-Logo.svg.png" group-title="ENTRETENIMIENTO",A&E OP 2
 http://45.228.232.204:16000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1920px-AMC_logo_2016.svg.png" group-title="ENTRETENIMIENTO",AMC
 http://45.228.232.204:16000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1920px-AMC_logo_2016.svg.png" group-title="ENTRETENIMIENTO",AMC OP 2
-http://167.114.173.24:25461/edson2022/edson2022/108
+http://181.78.24.187:8006/play/a06j/index.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.d0e69673d5e442ae5e78911cfb415d18?rik=Ikf8YN%2bcXbY%2fVg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2faxn-logo-vector-png-axn-logo-eps-vector-download-axn-450.png&ehk=nB3WTxrU%2fPrF572yLEuPgBxEOB3D6SR3Oi4RivKIVk4%3d&risl=&pid=ImgRaw&r=0" group-title="ENTRETENIMIENTO",AXN
-http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2080
+http://181.78.24.187:8006/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.d0e69673d5e442ae5e78911cfb415d18?rik=Ikf8YN%2bcXbY%2fVg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2faxn-logo-vector-png-axn-logo-eps-vector-download-axn-450.png&ehk=nB3WTxrU%2fPrF572yLEuPgBxEOB3D6SR3Oi4RivKIVk4%3d&risl=&pid=ImgRaw&r=0" group-title="ENTRETENIMIENTO",AXN OP 2
 http://190.61.102.67:8000/play/a07a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="ENTRETENIMIENTO",PARAMOUNT
 http://45.228.232.204:16000/play/a07w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="ENTRETENIMIENTO",PARAMOUNT OP 2
-http://streamgotv.us:2999/betowa31/8095/251
+http://190.27.253.211:8000/play/a07c/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" group-title="ENTRETENIMIENTO",CINEMAX
 http://45.228.232.204:16000/play/a07c/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" group-title="ENTRETENIMIENTO",CINEMAX OP2
@@ -342,7 +342,7 @@ http://190.131.228.59:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-logo="https://iparatodos.com.ar/uploads/canal/imagenes/CINECANAL.png" group-title="ENTRETENIMIENTO",CINECANAL
 http://45.228.232.204:16000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-logo="https://iparatodos.com.ar/uploads/canal/imagenes/CINECANAL.png" group-title="ENTRETENIMIENTO",CINECANAL OP2
-http://190.131.228.59:8000/play/a0ro/index.m3u8
+http://190.27.253.211:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-lxk6HVdz2ME/VgcyW0SlNNI/AAAAAAAAlMo/9-OQcQd_PdQ/s1600/TBS-logo-2015.png" group-title="ENTRETENIMIENTO",TBS
 http://playhispano.org:25461/live/skytvperu/e7aSxSPEmR/88224.ts  
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-lxk6HVdz2ME/VgcyW0SlNNI/AAAAAAAAlMo/9-OQcQd_PdQ/s1600/TBS-logo-2015.png" group-title="ENTRETENIMIENTO",TBS OP 2
@@ -350,17 +350,17 @@ http://45.228.232.204:16000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="https://duoylvxxmi2z2.cloudfront.net/hashtag/assets/tcm/logo.png" group-title="ENTRETENIMIENTO",TCM
 http://190.131.228.59:8000/play/a06z/index.m3u8 
 #EXTINF:-1 tvg-logo="https://duoylvxxmi2z2.cloudfront.net/hashtag/assets/tcm/logo.png" group-title="ENTRETENIMIENTO",TCM OP2
-http://181.129.186.36:8089/play/a04f/index.m3u8 
+http://45.166.92.22:58001/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.retronyms.com/consulting/images/syfy-logo.png" group-title="ENTRETENIMIENTO",SYFY
-http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/74267 
+http://190.27.253.211:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.retronyms.com/consulting/images/syfy-logo.png" group-title="ENTRETENIMIENTO",SYFY OP2
 http://streamgotv.us:2999/betowa31/8095/118 
 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/08/Logo-Film-Arts-1.png" group-title="ENTRETENIMIENTO",FILM & ARTS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL137/PROFILE03.m3u8 
 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/08/Logo-Film-Arts-1.png" group-title="ENTRETENIMIENTO",FILM & ARTS OP2
-http://190.61.102.67:31589/play/a08i/index.m3u8 
+http://45.166.92.22:58001/play/a00o/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/560px-E!_Logo.svg.png" group-title="ENTRETENIMIENTO",E!
-http://168.194.171.33:8000/play/a017/index.m3u8 
+http://45.166.92.22:58001/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/560px-E!_Logo.svg.png" group-title="ENTRETENIMIENTO",E! OP2
 http://190.61.102.67:31589/play/a03i/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" group-title="ENTRETENIMIENTO",GOLDEN
@@ -419,7 +419,7 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png" group-title="MUSICA",TVEXITOS
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png" group-title="MUSICA",MUSICA POP
-https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/index-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/rock-hqm-logo.png" group-title="MUSICA",MUSICA ROCK
 https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/hits-hqm-logo.png" group-title="MUSICA",MUSICA HITS
