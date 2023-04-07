@@ -419,7 +419,7 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png" group-title="MUSICA",TVEXITOS
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png" group-title="MUSICA",MUSICA POP
-https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/index-f5-v1-a1.m3u8
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/index-f4-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/rock-hqm-logo.png" group-title="MUSICA",MUSICA ROCK
 https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
 #EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/hits-hqm-logo.png" group-title="MUSICA",MUSICA HITS
