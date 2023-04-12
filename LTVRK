@@ -45,13 +45,13 @@ https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Galavisi%C3%B3n_logo2012.png" group-title="MEXICO",GALAVISION
 http://mytvstream.net:8080/vince/vince/58770
 #EXTINF:-1 tvg-logo="https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png" group-title="MEXICO",UNIVISION MIAMI
-http://mytvstream.net:8080/vince/vince/108248
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41946
 #EXTINF:-1 tvg-logo="https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png" group-title="MEXICO",UNIVISION LOS ANGELES
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/3796
 #EXTINF:-1 tvg-logo="https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png" group-title="MEXICO",UNIVISION
 http://45.228.232.204:16000/play/a081/index.m3u8
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" group-title="MEXICO",UNIMAS
-http://mytvstream.net:8080/vince/vince/57969
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41971
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png" group-title="MEXICO",A PLUS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2316/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="MEXICO",ONCE HD
@@ -86,7 +86,7 @@ http://190.61.102.67:8000/play/a040
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="NOVELAS",AZ CORAZÓN OP2
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4026
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/7b/b9/1754376d4e608523ff87670c7a4e/canalu.png" group-title="NOVELAS",UNICABLE
-http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/77004
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28043
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/7b/b9/1754376d4e608523ff87670c7a4e/canalu.png" group-title="NOVELAS",UNICABLE HD
 http://mytvstream.net:8080/vince/vince/57611
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="NOVELAS",PASIONES
