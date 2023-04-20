@@ -781,6 +781,18 @@ http://38.131.11.34:1080/play/a00m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1250/PROFILE03.m3u8
 
+#EXTINF:-1 tvg-logo="https://popculturetimes.com/wp-content/uploads/2020/09/John-Wick-Chapter-4-release-date-696x425.jpg" group-title="MOVIES ESTRENOS HD",JOHN WICK 4
+http://51.81.208.167/pelis2023/John.Wick.Chapter.4.2023.mkv
+#EXTINF:-1 tvg-logo="https://cinescape.kinsta.cloud/wp-content/uploads/2021/06/Antman-and-the-wasp-Quantumania-1-1024x512-1-750x430.jpg" group-title="MOVIES ESTRENOS HD",ANT-MAN Y LA AVISPA: QUANTUMANIA
+http://51.81.208.167/pelis2023/Ant-Man.and.the.Wasp.Quantumania.2023.720p-dual-lat.mkv
+#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2023/04/siete-reyes-deben-morir-netflix-3014018.jpg?itok=UXHgtFJG" group-title="MOVIES ESTRENOS HD",SIETE REYES DEBEN MORIR
+http://45.179.164.59:8181/Peliculas/2023/The.Last.Kingdom.Seven.Kings.Must.Die.2023.720p-dual-lat/The.Last.Kingdom.Seven.Kings.Must.Die.2023.720p-dual-lat.mkv
+#EXTINF:-1 tvg-logo="https://www.dosismedia.com/wp-content/uploads/2022/10/la-vigilia-el-exorcismo-del-mazz-1.jpg" group-title="MOVIES ESTRENOS HD",EL EXORCISMO DE MAZZIK: LA VIGILIA  
+http://45.179.164.59:8181/Peliculas/2023/El%20exorcismo%20del%20Mazzik,%20la%20vigilia.mkv
+#EXTINF:-1 tvg-logo="https://dx35vtwkllhj9.cloudfront.net/lionsgateus/jesus-revolution/images/regions/us/share.jpg" group-title="MOVIES ESTRENOS HD",JESUS REVOLUCIÓN
+http://45.179.164.59:8181/Peliculas/Jesus.Revolution.2023.720p.mkv
+#EXTINF:-1 tvg-logo="https://th.bing.com/th?id=OIF.5yVsGB%2boD4Uy%2bPvjCBPDxQ&pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",AMÉN: FRANCISCO RESPONDE
+http://45.179.164.59:8181/Peliculas/The.Pope.Answers.2023.1080p.LAT.cinecalidad.cat.mp4
 #EXTINF:-1 tvg-logo="https://luznoticiasrm.blob.core.windows.net.optimalcdn.com/images/2023/03/17/shazam-pprtada-57987ba7-focus-0.17-0.56-1280-720.png" group-title="MOVIES ESTRENOS HD",SHAZAM! 2
 http://51.81.208.167/pelis2023/Shazam!.2.2023.lati.mp4
 #EXTINF:-1 tvg-logo="https://s.yimg.com/ny/api/res/1.2/gqKsQJqxB0Ak.SJNao5pGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/es/lanacion.com.ar/c2ad096fcd3180fe525e9f8bc516d8f9" group-title="MOVIES ESTRENOS HD",LA BALLENA
