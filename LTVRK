@@ -145,17 +145,17 @@ http://190.27.253.211:8000/play/a072/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="CULTURA",H2 OP2
 http://190.61.102.67:8000/play/a021
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.0b3067d2bb1ffb94ececb7a07f9339cb?rik=SBHOQcdIbp2oyg&riu=http%3a%2f%2fwww.tamcom.com%2fwp-content%2fuploads%2f2015%2f01%2fdiscovery-channel-white-logo.png&ehk=BhVBKupIleE7UfDW7daBnn5icqb9cyGQcYd306Oy1U0%3d&risl=&pid=ImgRaw&r=0" group-title="CULTURA",DISCOVERY CHANNEL MX
-http://45.228.232.204:16000/play/a07y/index.m3u8
+http://190.83.119.67:8000/play/a041/index.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.0b3067d2bb1ffb94ececb7a07f9339cb?rik=SBHOQcdIbp2oyg&riu=http%3a%2f%2fwww.tamcom.com%2fwp-content%2fuploads%2f2015%2f01%2fdiscovery-channel-white-logo.png&ehk=BhVBKupIleE7UfDW7daBnn5icqb9cyGQcYd306Oy1U0%3d&risl=&pid=ImgRaw&r=0" group-title="CULTURA",DISCOVERY CHANNEL OP2
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21435
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/tv1_sci-white.png" group-title="CULTURA",DISCOVERY SCIENCE  
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/63943
+http://190.83.119.67:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CULTURA",DISCOVERY H&H
 http://190.27.253.211:8000/play/a07l/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CULTURA",DISCOVERY H&H HD
-http://45.228.232.204:16000/play/a081/index.m3u8
+http://190.83.119.67:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/240-2403856_hgtv-logo-hgtv-app.png" group-title="CULTURA",HGTV
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/132185.ts
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21419
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/240-2403856_hgtv-logo-hgtv-app.png" group-title="CULTURA",HGTV OP2
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8340
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png" group-title="CULTURA",DISCOVERY TURBO
@@ -163,7 +163,7 @@ http://190.27.253.211:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png" group-title="CULTURA",DISCOVERY TURBO OP 2
 http://190.131.228.59:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",DISCOVERY WORLD
-http://45.228.232.204:16000/play/a07z/index.m3u8
+http://190.83.119.67:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",DISCOVERY WORLD OP 2
 http://190.131.247.82:8000/play/a01a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="CULTURA",DISCOVERY ID
