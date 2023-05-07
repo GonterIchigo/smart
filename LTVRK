@@ -781,8 +781,8 @@ http://38.131.11.34:1080/play/a00m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1250/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ot1TSAoKma4/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",panda
-http://tv.multitv.live:39001/movie/Martha11CA/I4bSzJfAzE/200841.mp4
+#EXTINF:-1 tvg-logo="https://www.nintenderos.com/wp-content/uploads/2023/02/pelicula-marios.jpg" group-title="MOVIES ESTRENOS HD",SUPER MARIO BROS: LA PELICULA 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/abril/Ver%20S%C3%BAper%20Mario%20Bros-%20La%20pel%C3%ADcula%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ot1TSAoKma4/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",EL EXORCISTA DEL PAPA
 http://playhispano.org:8080/movie/eliaseggy787/JRZpSNT6Bv/221538.mkv
 #EXTINF:-1 tvg-logo="https://dx35vtwkllhj9.cloudfront.net/paramountpictures/dungeons-and-dragons-honor-among-thieves/images/regions/mx/share.jpg" group-title="MOVIES ESTRENOS HD",CALABOZOS Y DRAGONES: HONOR ENTRE LADRONES
