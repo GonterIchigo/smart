@@ -209,7 +209,7 @@ http://190.61.102.67:8000/play/a03u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="CARTOONS",CARTOONITO OP2
 http://190.83.119.67:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/canal_bitme_6838.png" group-title="CARTOONS",BIT ME
-http://45.143.222.41:8080/dooby1312/b244f7ab/47946
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/8301.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/340?cb=20200125124642&path-prefix=es" group-title="CARTOONS",LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e8/3e/b9/e83eb97fac78e9328f8dd32ad2e527e7.png" group-title="CARTOONS",BABY TV
@@ -278,11 +278,11 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27982
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="ENTRETENIMIENTO",STAR CHANNEL HD
 http://190.83.119.67:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="ENTRETENIMIENTO",STAR CHANNEL HD OP2
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26901
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/111019.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/587463.png" group-title="ENTRETENIMIENTO",FX HD
 http://190.83.119.67:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/587463.png" group-title="ENTRETENIMIENTO",FX HD OP2
-http://45.143.222.41:8080/dooby1312/b244f7ab/34561
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/1928.m3u8
 #EXTINF:-1 tvg-logo="http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/01/SundanceTV-logo-700x384.jpg" group-title="ENTRETENIMIENTO",SUNDANCE
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/757.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="ENTRETENIMIENTO",A3 SERIES
@@ -665,7 +665,7 @@ http://play.flamaplus.tv:80/play/hUAC2XCgtW0N0759MiAJMNAnuRqJWZC9E4lV0skL8bo/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",WIN SPORTS
 http://190.27.253.211:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/200px-Win_Sports%2B_logo.svg.png" group-title="DEPORTES",WIN SPORTS PLUS
-http://45.143.222.41:8080/dooby1312/b244f7ab/8345
+http://190.131.228.59:8000/play/a0e2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="DEPORTES",BEIN SPORTS
 http://play.flamaplus.tv:80/play/hUAC2XCgtW0N0759MiAJMOVnLg0T4StIh4SRL0a0tvI/ts
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.d9e08c3205afcf0a6a2a9b91f1b849ef?rik=SXhZ7dSfPiECaw&riu=http%3a%2f%2fandabolivia.com%2fwp-content%2fuploads%2f2018%2f05%2ftigo-sports.png&ehk=enXRtyb%2bSKMEquecsDcEbATCWPgbcqEe0YEqdg4NlaM%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTES",TIGO SPORTS
@@ -792,7 +792,7 @@ http://208.88.245.85/nuevo/el.exorcistadelpapa.dual2023.mkv
 #EXTINF:-1 tvg-logo="https://dx35vtwkllhj9.cloudfront.net/paramountpictures/dungeons-and-dragons-honor-among-thieves/images/regions/mx/share.jpg" group-title="MOVIES ESTRENOS HD",CALABOZOS Y DRAGONES: HONOR ENTRE LADRONES
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/abril/Ver%20Calabozos%20&%20Dragones-%20Honor%20entre%20ladrones%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 #EXTINF:-1 tvg-logo="https://thumbnails-cloudflare.flixgaze.com/clock2023.jpg" group-title="MOVIES ESTRENOS HD",SIN TIEMPO
-http://playhispano.org:8080/movie/eliaseggy787/JRZpSNT6Bv/221080.mkv
+http://158.69.224.17:88/edmian/Clock.2023.720p%20(1).mkv
 #EXTINF:-1 tvg-logo="https://estereofonica.com/wp-content/uploads/2023/04/descubre-el-emocionante-trailer-de-peter-pan-y-wendy-la-nueva-pelicula-de-disney_scale-7.jpg" group-title="MOVIES ESTRENOS HD",PETER PAN Y WENDY
 http://nocable.cc:8080/Debra/Debra/1807230.mp4
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.8AnxpA1_tqoxIBdBk4nbUAAAAA?pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",TRANSFUSION
@@ -818,7 +818,7 @@ http://45.179.164.59:8181/Peliculas/2023/The.Last.Kingdom.Seven.Kings.Must.Die.2
 #EXTINF:-1 tvg-logo="https://www.dosismedia.com/wp-content/uploads/2022/10/la-vigilia-el-exorcismo-del-mazz-1.jpg" group-title="MOVIES ESTRENOS HD",EL EXORCISMO DE MAZZIK: LA VIGILIA  
 http://45.179.164.59:8181/Peliculas/2023/El%20exorcismo%20del%20Mazzik,%20la%20vigilia.mkv
 #EXTINF:-1 tvg-logo="https://dx35vtwkllhj9.cloudfront.net/lionsgateus/jesus-revolution/images/regions/us/share.jpg" group-title="MOVIES ESTRENOS HD",JESUS REVOLUCIÓN
-http://45.179.164.59:8181/Peliculas/Jesus.Revolution.2023.720p.mkv
+http://158.69.224.17:88/edmian/Jesus.Revolution.2023.720p%20(1).mkv
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?id=OIF.5yVsGB%2boD4Uy%2bPvjCBPDxQ&pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",AMÉN: FRANCISCO RESPONDE
 http://45.179.164.59:8181/Peliculas/The.Pope.Answers.2023.1080p.LAT.cinecalidad.cat.mp4
 #EXTINF:-1 tvg-logo="https://luznoticiasrm.blob.core.windows.net.optimalcdn.com/images/2023/03/17/shazam-pprtada-57987ba7-focus-0.17-0.56-1280-720.png" group-title="MOVIES ESTRENOS HD",SHAZAM! 2
