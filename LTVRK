@@ -21,9 +21,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492e6d7f3f560007
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO",AZTECA UNO
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/12635
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO",AZTECA UNO OP2
-http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/19777.m3u8
+http://2hubs.ddns.net:25461/Iptr33/aQJScdWR8n9r/63222
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="MEXICO",AZTECA 7 HD
-http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/19778.m3u8
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9026
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="MEXICO",AZTECA 7  OP2
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/9026
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_713.png" group-title="MEXICO",AZ CLIC HD
