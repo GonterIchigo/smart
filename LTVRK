@@ -27,7 +27,7 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9026
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="MEXICO",AZTECA 7  OP2
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/9026
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_713.png" group-title="MEXICO",AZ CLIC HD
-http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/19783.m3u8
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9035
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png" group-title="MEXICO",AZ MUNDO
 http://45.143.222.41:8080/dooby1312/b244f7ab/3000
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" group-title="MEXICO",AZ CINEMA 
@@ -35,7 +35,7 @@ http://45.143.222.41:8080/dooby1312/b244f7ab/9108
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 HD
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/9024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 HD OP 2 
-http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/19781.m3u8
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9024
 #EXTINF:-1 tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="MEXICO",NU9VE
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/298044
 #EXTINF:-1 tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="MEXICO",NU9VE HD 
@@ -52,6 +52,8 @@ https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 http://45.228.232.204:16000/play/a081/index.m3u8
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" group-title="MEXICO",UNIMAS
 http://nocable.cc:8080/Debra/Debra/57969
+#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" group-title="MEXICO",UNIMAS LA
+http://2hubs.ddns.net:25461/Iptr33/aQJScdWR8n9r/62687
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png" group-title="MEXICO",A PLUS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2316/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="MEXICO",ONCE HD
@@ -98,7 +100,7 @@ http://190.131.247.82:8000/play/a00i
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s400/rojo.png" group-title="NOVELAS",TLNOVELAS 
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/16598
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/tlnovelas_m.png" group-title="NOVELAS",UNIVISION TLNOVELAS
-http://play.flamaplus.tv:80/play/hUAC2XCgtW0N0759MiAJMBXgxCOXCEmosM0kvDoDGO4/ts
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/196608
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png" group-title="NOVELAS",GLITZ
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/1491
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png" group-title="NOVELAS",GLITZ OP2 
@@ -118,7 +120,7 @@ http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/257
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/15/RCNnovelas2019.png" group-title="NOVELAS",RCN NOVELAS
 http://190.149.66.90:16000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.my.rio2c.com/img/organizations/b6dad2d2-e711-4157-b64a-b22f0a07c791_thumbnail.png?v=20191202194516" group-title="NOVELAS",CARACOL
-http://190.131.247.82:8000/play/a03d
+http://2hubs.ddns.net:25461/Iptr33/aQJScdWR8n9r/62839
 #EXTINF:-1 tvg-logo="https://assets.my.rio2c.com/img/organizations/b6dad2d2-e711-4157-b64a-b22f0a07c791_thumbnail.png?v=20191202194516" group-title="NOVELAS",CARACOL OP2
 http://190.27.253.211:8000/play/a05b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="NOVELAS",TELETICA
@@ -183,7 +185,7 @@ http://190.83.119.67:8000/play/a0sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-6TeTUuHgsxI/VrV2aR1efMI/AAAAAAAAGs0/f-yRhAXo-RU/s640/Tooncas_logo_jpg.png" group-title="CARTOONS",TOONCAST
 http://190.83.119.67:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-6TeTUuHgsxI/VrV2aR1efMI/AAAAAAAAGs0/f-yRhAXo-RU/s640/Tooncas_logo_jpg.png" group-title="CARTOONS",TOONCAST OP 2
-http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/62697
+http://2hubs.ddns.net:25461/Iptr33/aQJScdWR8n9r/62697
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="CARTOONS",DISCOVERY KIDS MX
 http://190.27.253.211:8000/play/a07k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="CARTOONS",DISCOVERY KIDS PREMIUM
@@ -201,7 +203,7 @@ http://190.27.253.211:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="CARTOONS",CARTOON NETWORK HD
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/40841
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="CARTOONS",DISNEY CHANNEL
-http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/62820
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3025
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="CARTOONS",DISNEY CHANNEL OP 2
 http://190.27.253.211:8000/play/a065/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="CARTOONS",CARTOONITO
@@ -209,13 +211,13 @@ http://190.61.102.67:8000/play/a03u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="CARTOONS",CARTOONITO OP2
 http://190.83.119.67:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/canal_bitme_6838.png" group-title="CARTOONS",BIT ME
-http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/8301.m3u8
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/47946
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/340?cb=20200125124642&path-prefix=es" group-title="CARTOONS",LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e8/3e/b9/e83eb97fac78e9328f8dd32ad2e527e7.png" group-title="CARTOONS",BABY TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL116/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="CARTOONS",NICK JR
-http://190.131.228.59:8000/play/a09b/index.m3u8
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/29310
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="CARTOONS",NICK JR OP 2
 http://190.83.119.67:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-VvbUqgHc5Pw/VJIJWAJLxfI/AAAAAAAAHi0/A0nDmO29zwk/s1600/Logo%2BDisney_Junior.png" group-title="CARTOONS",DISNEY JR
@@ -244,7 +246,7 @@ http://190.83.119.67:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png" group-title="ENTRETENIMIENTO PREMIUM",HBO FAMILY
 http://190.83.119.67:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png" group-title="ENTRETENIMIENTO PREMIUM",HBO FAMILY OP2
-http://190.131.228.59:8000/play/a0j5/index.m3u8
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3057
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="ENTRETENIMIENTO PREMIUM",HBO MUNDI
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/1807.ts
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="ENTRETENIMIENTO PREMIUM",HBO MUNDI OP2
@@ -278,11 +280,11 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27982
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="ENTRETENIMIENTO",STAR CHANNEL HD
 http://190.83.119.67:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="ENTRETENIMIENTO",STAR CHANNEL HD OP2
-http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/111019.m3u8
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/5785
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/587463.png" group-title="ENTRETENIMIENTO",FX HD
 http://190.83.119.67:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/587463.png" group-title="ENTRETENIMIENTO",FX HD OP2
-http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/1928.m3u8
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295243
 #EXTINF:-1 tvg-logo="http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/01/SundanceTV-logo-700x384.jpg" group-title="ENTRETENIMIENTO",SUNDANCE
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/757.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="ENTRETENIMIENTO",A3 SERIES
@@ -300,15 +302,15 @@ http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/30386
 #EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg" group-title="ENTRETENIMIENTO",STUDIO UNIVERSAL
 http://190.27.253.211:8000/play/a07d/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg" group-title="ENTRETENIMIENTO",STUDIO UNIVERSAL OP2
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28034
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3083
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="ENTRETENIMIENTO",WARNER HD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8
+http://190.83.119.67:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="ENTRETENIMIENTO",WARNER HD OP2
 http://45.228.232.204:16000/play/a06m/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="ENTRETENIMIENTO",TNT
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28039
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="ENTRETENIMIENTO",TNT OP2
-http://190.27.253.211:8000/play/a06o/index.m3u8
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/16600
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TNT_Serie.svg/649px-TNT_Serie.svg.png" group-title="ENTRETENIMIENTO",TNT SERIES
 http://190.27.253.211:8000/play/a07s/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TNT_Serie.svg/649px-TNT_Serie.svg.png" group-title="ENTRETENIMIENTO",TNT SERIES OP2
