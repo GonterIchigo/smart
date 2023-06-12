@@ -783,6 +783,13 @@ http://38.131.11.34:1080/play/a00m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1250/PROFILE03.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sdNv9aUf900/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",RAPIDOS Y FURIOSOS X
+https://www.mediafire.com/file_premium/nyfw4rpp2boyqfl/f4st.x.2023.hdrip.1080p.latino.mp4/file
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CEisKmE1HYI/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",DETECTIVES EN GUERRA
+https://i.ytimg.com/vi/CEisKmE1HYI/maxresdefault.jpg
+http://158.69.224.17:88/edmian/Detectives%20en%20Guerra%20(2022)%201080p%20(1).mkv
+#EXTINF:-1 tvg-logo="https://occ-0-34-58.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABY2-uLeVXqXlyTjW9Fz9CqsmauMFL-xTv3DuPz-NeNpYQEF6Av29w4Z8ICsdQol62YWawE9QkVZ8KZCIBizcnZRFDb1g60vgm69lpxZaJ23yI0z-EzzKzjUJHkjylJhi8DoLmg.jpg" group-title="MOVIES ESTRENOS HD",EL ULTIMO VAGON
+http://158.69.224.17:88/edmian/Where.The.Tracks.End.2023.720p%20(1).mkv
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/mxHnqrZNz20FU7atGE0qZSQ6hsy4WYxSJiISYaPcpaytWldy_zNVIDUqKc44a4p_iurlOLuXzJu6" group-title="MOVIES ESTRENOS HD",SNAG
 http://tv.deluxeprime.net:8080/anrj91/TpwfHPjkLHMJ/196854.mkv
 #EXTINF:-1 tvg-logo="https://cuarteldelmetal.com/wp-content/uploads/2023/05/The-Mother.jpeg" group-title="MOVIES ESTRENOS HD",LA MADRE
