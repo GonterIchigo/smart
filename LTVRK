@@ -7,7 +7,7 @@ t.me/LTV_TECNOTUTO (https://t.me/LTV_TECNOTUTO)
 https://www.youtube.com/channel/UC37h-7ZVI7GIOnPNNTgVL8w
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png" group-title="MEXICO",LAS ESTRELLAS HD
-https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+http://181.224.201.101:5577/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png" group-title="MEXICO",LAS ESTRELLAS HD OP2
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27976
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png" group-title="MEXICO",LAS ESTRELLAS HD OP3
@@ -21,7 +21,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492e6d7f3f560007
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO",AZTECA UNO
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/12635
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO",AZTECA UNO OP2
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9025
+https://m3ukodi.com/developer/universo/universo.php?340-7085
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="MEXICO",AZTECA 7 HD
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9026
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="MEXICO",AZTECA 7  OP2
@@ -41,13 +41,13 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298919
 #EXTINF:-1 tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="MEXICO",NU9VE HD 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/26836.m3u8
 #EXTINF:-1 tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="MEXICO",NU9VE HD OP 2
-https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/26836
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Galavisi%C3%B3n_logo2012.png" group-title="MEXICO",GALAVISION
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/71860
 #EXTINF:-1 tvg-logo="https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png" group-title="MEXICO",UNIVISION MIAMI
 http://190.83.119.67:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-logo="https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png" group-title="MEXICO",UNIVISION LOS ANGELES
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38527.m3u8
 #EXTINF:-1 tvg-logo="https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png" group-title="MEXICO",UNIVISION
 http://45.228.232.204:16000/play/a081/index.m3u8
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" group-title="MEXICO",UNIMAS
@@ -55,7 +55,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2100.m3u8
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" group-title="MEXICO",UNIMAS LA
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/147654
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png" group-title="MEXICO",A PLUS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2316/PROFILE03.m3u8
+https://m3ukodi.com/developer/universo/universo.php?340-7085
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="MEXICO",ONCE HD
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/7051
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleformula-mediano.png" group-title="MEXICO",TELEFORMULA
@@ -67,7 +67,7 @@ http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/9039
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Multimedios_Estrellas_de_Oro_%281991_Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20210721224718" group-title="MEXICO",MULTIMEDIOS MONTERREY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Multimedios_Estrellas_de_Oro_%281991_Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20210721224718" group-title="MEXICO",MULTIMEDIOS CDMX 
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aprende_tv-mediano.png" group-title="MEXICO",APRENDE TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL401/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvmas.png" group-title="MEXICO",TVMAS
