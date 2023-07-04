@@ -11,7 +11,7 @@ http://204.199.120.34:16123/play/ch44
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png" group-title="MEXICO",LAS ESTRELLAS HD OP2
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27976
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png" group-title="MEXICO",LAS ESTRELLAS HD OP3
-http://190.122.186.88:8000/play/hjkP/index.m3u8
+http://hdhd.tk:80/Melvin1/Melvin1/27347
 #EXTINF:-1 tvg-logo="http://unidosok.com/wp-content/uploads/2020/02/ESTRELLA-TV-WHITE-LETTER-TRANSPARENT.png" group-title="MEXICO",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://unidosok.com/wp-content/uploads/2020/02/ESTRELLA-TV-WHITE-LETTER-TRANSPARENT.png" group-title="MEXICO",ESTRELLA TV OP2
@@ -19,11 +19,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6
 #EXTINF:-1 tvg-logo="https://estrellatv.com/img/shows/noticias-estrellatv/logo.png" group-title="MEXICO",ESTRELLA TV NOTICIAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=65dca7cb-5c3a-4186-9083-f702118added&clientModelNumber=na&deviceDNT=true&deviceId=65dca7cb-5c3a-4186-9083-f702118added&deviceLat=42.0048&deviceLon=-87.9954&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=83.0.4103.106&marketingRegion=US&serverSideAds=true&sessionID=b8df70d0-afa5-11eb-b521-0242ac110002&sid=b8df70d0-afa5-11eb-b521-0242ac110002&userId=
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO",AZTECA UNO
-http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/63213
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO",AZTECA UNO OP2
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9025
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="MEXICO",AZTECA 7 HD
-http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/63185
+http://hdhd.tk:80/Melvin1/Melvin1/24376
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="MEXICO",AZTECA 7  OP2
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_713.png" group-title="MEXICO",AZ CLIC HD
@@ -33,7 +33,7 @@ http://45.143.222.41:8080/dooby1312/b244f7ab/3000
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" group-title="MEXICO",AZ CINEMA 
 http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/63198
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 HD
-http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/114283
+http://hdhd.tk:80/Melvin1/Melvin1/24390
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 HD OP 2 
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9024
 #EXTINF:-1 tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="MEXICO",NU9VE
