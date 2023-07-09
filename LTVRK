@@ -33,7 +33,7 @@ http://45.5.117.172:8000/play/a0h8/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" group-title="MEXICO",AZ CINEMA 
 http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/63198
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 HD
-http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/30.m3u8
+http://gotv.vip:8880/live/ALFL5HF5VFpWMYS/cambio/32.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 HD OP 2 
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9024
 #EXTINF:-1 tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="MEXICO",NU9VE
