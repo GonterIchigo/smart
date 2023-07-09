@@ -23,17 +23,17 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO",AZTECA UNO OP2
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9025
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="MEXICO",AZTECA 7 HD
-http://hdhd.tk:80/Melvin1/Melvin1/24376
+http://45.5.117.172:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="MEXICO",AZTECA 7  OP2
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_713.png" group-title="MEXICO",AZ CLIC HD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9035
+http://45.5.117.172:8000/play/a0gz/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png" group-title="MEXICO",AZ MUNDO
-http://45.143.222.41:8080/dooby1312/b244f7ab/3000
+http://45.5.117.172:8000/play/a0h8/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" group-title="MEXICO",AZ CINEMA 
 http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/63198
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 HD
-http://hdhd.tk:80/Melvin1/Melvin1/24390
+http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/30.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 HD OP 2 
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9024
 #EXTINF:-1 tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="MEXICO",NU9VE
