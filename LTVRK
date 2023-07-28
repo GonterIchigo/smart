@@ -49,13 +49,13 @@ http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/172655
 #EXTINF:-1 tvg-logo="https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png" group-title="MEXICO",UNIVISION LOS ANGELES
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38527.m3u8
 #EXTINF:-1 tvg-logo="https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png" group-title="MEXICO",UNIVISION
-http://45.228.232.204:16000/play/a081/index.m3u8
+http://167.114.156.136:25461/INFINITV/ZX89NM22/173
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" group-title="MEXICO",UNIMAS
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2100.m3u8
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" group-title="MEXICO",UNIMAS LA
-http://gotv.vip:8880/live/ALFL5HF5VFpWMYS/cambio/69777.m3u8
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/147654
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png" group-title="MEXICO",A PLUS
-http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/285187
+http://167.114.156.136:25461/INFINITV/ZX89NM22/113
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="MEXICO",ONCE HD
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/7051
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleformula-mediano.png" group-title="MEXICO",TELEFORMULA
@@ -84,13 +84,13 @@ http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/5782
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="NOVELAS",AZ CORAZÓN
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2999
+http://167.114.156.136:25461/INFINITV/ZX89NM22/117
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="NOVELAS",AZ CORAZÓN OP2
 http://45.5.118.213:16000/play/a0lw/index.m3u8
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/7b/b9/1754376d4e608523ff87670c7a4e/canalu.png" group-title="NOVELAS",UNICABLE
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28043
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/7b/b9/1754376d4e608523ff87670c7a4e/canalu.png" group-title="NOVELAS",UNICABLE HD
-http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/5804
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2375
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="NOVELAS",PASIONES
 http://45.228.232.204:16000/play/a080/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="NOVELAS",PASIONES OP 2
@@ -783,6 +783,8 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/1469
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",araña
 http://144.217.70.79/VODS-M/1080P/Saw%202004.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lvtdCBUmxT3CZ7T7wIFFy8rhEeb.jpg" group-title="MOVIES ESTRENOS HD",LA SIRENITA
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/julio/Ver%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 #EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",FLASH
 https://www.alianzajuridicainteramericana.com/movies/flash.mp4
 #EXTINF:-1 tvg-logo="https://oncediariostaticnew.s3.amazonaws.com/images/notas/nota_16852265112579_898.jpg" group-title="MOVIES ESTRENOS HD",TRANSFORMERS
