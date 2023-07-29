@@ -120,7 +120,7 @@ http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/257
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/15/RCNnovelas2019.png" group-title="NOVELAS",RCN NOVELAS
 http://190.149.66.90:16000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.my.rio2c.com/img/organizations/b6dad2d2-e711-4157-b64a-b22f0a07c791_thumbnail.png?v=20191202194516" group-title="NOVELAS",CARACOL
-http://190.83.60.34:1414/play/a054
+http://204.199.120.34:16123/play/ch58
 #EXTINF:-1 tvg-logo="https://assets.my.rio2c.com/img/organizations/b6dad2d2-e711-4157-b64a-b22f0a07c791_thumbnail.png?v=20191202194516" group-title="NOVELAS",CARACOL OP2
 http://190.27.253.211:8000/play/a05b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="NOVELAS",TELETICA
@@ -137,11 +137,11 @@ http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/1409
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_02/large.1129293984_1200px-2018_Animal_Planet_logo.svg-copia.png.b691b46afeb2599db5e727a8bbd642a4.png" group-title="CULTURA",ANIMAL PLANET
 http://190.83.60.34:1414/play/a042
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_02/large.1129293984_1200px-2018_Animal_Planet_logo.svg-copia.png.b691b46afeb2599db5e727a8bbd642a4.png" group-title="CULTURA",ANIMAL PLANET OP2
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/1398
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/4698
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="CULTURA",HISTORY MX
 http://190.83.60.34:1414/play/a01b
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="CULTURA",HISTORY PREMIUM 
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/1406
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2387
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="CULTURA",H2
 http://190.27.253.211:8000/play/a072/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="CULTURA",H2 OP2
@@ -149,11 +149,11 @@ http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/40831
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.0b3067d2bb1ffb94ececb7a07f9339cb?rik=SBHOQcdIbp2oyg&riu=http%3a%2f%2fwww.tamcom.com%2fwp-content%2fuploads%2f2015%2f01%2fdiscovery-channel-white-logo.png&ehk=BhVBKupIleE7UfDW7daBnn5icqb9cyGQcYd306Oy1U0%3d&risl=&pid=ImgRaw&r=0" group-title="CULTURA",DISCOVERY CHANNEL MX
 http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/281050
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.0b3067d2bb1ffb94ececb7a07f9339cb?rik=SBHOQcdIbp2oyg&riu=http%3a%2f%2fwww.tamcom.com%2fwp-content%2fuploads%2f2015%2f01%2fdiscovery-channel-white-logo.png&ehk=BhVBKupIleE7UfDW7daBnn5icqb9cyGQcYd306Oy1U0%3d&risl=&pid=ImgRaw&r=0" group-title="CULTURA",DISCOVERY CHANNEL OP2
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/26891
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/6394
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/tv1_sci-white.png" group-title="CULTURA",DISCOVERY SCIENCE  
-http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/9059
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2400
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CULTURA",DISCOVERY H&H
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/1402
+http://204.199.120.34:16123/play/ch25
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CULTURA",DISCOVERY H&H HD
 http://181.224.201.101:5577/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/240-2403856_hgtv-logo-hgtv-app.png" group-title="CULTURA",HGTV
@@ -165,7 +165,7 @@ http://190.27.253.211:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png" group-title="CULTURA",DISCOVERY TURBO OP 2
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62822
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",DISCOVERY WORLD
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/26896 
+http://190.83.60.34:1414/play/a03k
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",DISCOVERY WORLD OP 2
 http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8894
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="CULTURA",DISCOVERY ID
@@ -173,7 +173,7 @@ http://181.224.201.101:5577/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="CULTURA",DISCOVERY ID OP2
 http://45.5.117.172:8000/play/a0ks/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/4096px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA",DISCOVERY THEATER
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/177631
+http://167.114.156.136:25461/INFINITV/ZX89NM22/217
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/4096px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA",DISCOVERY THEATER OP 2
 http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/3022
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png" group-title="CULTURA",DISCOVERY TLC
@@ -182,7 +182,7 @@ http://45.5.117.172:8000/play/a0hh/index.m3u8
 http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/177632
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-6TeTUuHgsxI/VrV2aR1efMI/AAAAAAAAGs0/f-yRhAXo-RU/s640/Tooncas_logo_jpg.png" group-title="CARTOONS",TOONCAST
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/1396
+http://sysadminhost.net:8080/messie2022/qswY3TjvNax5kNz9/3091
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-6TeTUuHgsxI/VrV2aR1efMI/AAAAAAAAGs0/f-yRhAXo-RU/s640/Tooncas_logo_jpg.png" group-title="CARTOONS",TOONCAST OP 2
 http://190.83.119.67:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="CARTOONS",DISCOVERY KIDS MX
