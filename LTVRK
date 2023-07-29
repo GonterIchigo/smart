@@ -186,11 +186,11 @@ http://sysadminhost.net:8080/messie2022/qswY3TjvNax5kNz9/3091
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-6TeTUuHgsxI/VrV2aR1efMI/AAAAAAAAGs0/f-yRhAXo-RU/s640/Tooncas_logo_jpg.png" group-title="CARTOONS",TOONCAST OP 2
 http://190.83.119.67:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="CARTOONS",DISCOVERY KIDS MX
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/1375
+http://204.199.120.34:16123/play/ch02
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="CARTOONS",DISCOVERY KIDS PREMIUM
 http://181.224.201.101:5577/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="CARTOONS",NICKELODEO
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/1387
+http://sysadminhost.net:8080/messie2022/qswY3TjvNax5kNz9/3076
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="CARTOONS",NICK OP 2
 http://190.83.60.34:1414/play/a01s
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/73545.png" group-title="CARTOONS",NICK TEEN
@@ -202,13 +202,13 @@ http://190.83.60.34:1414/play/a03u
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="CARTOONS",CARTOON NETWORK HD
 http://45.5.117.172:8000/play/a0l0/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="CARTOONS",DISNEY CHANNEL
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/1377
+http://204.199.120.34:16123/play/ch03
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="CARTOONS",DISNEY CHANNEL OP 2
 http://190.27.253.211:8000/play/a065/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="CARTOONS",CARTOONITO
 http://45.5.117.172:8000/play/a0g0/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="CARTOONS",CARTOONITO OP2
-http://51.222.43.170:8001/cristiancl/cirtianiptv/149
+http://sysadminhost.net:8080/messie2022/qswY3TjvNax5kNz9/9088
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/canal_bitme_6838.png" group-title="CARTOONS",BIT ME
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/47946
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/340?cb=20200125124642&path-prefix=es" group-title="CARTOONS",LOCOMOTION
@@ -237,7 +237,7 @@ http://190.83.60.34:1414/play/a040
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png" group-title="ENTRETENIMIENTO PREMIUM",HBO PLUS
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62791
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png" group-title="ENTRETENIMIENTO PREMIUM",HBO PLUS OP2
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/1434
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1554
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="ENTRETENIMIENTO PREMIUM",HBO XTREME
 http://45.166.92.22:58001/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="ENTRETENIMIENTO PREMIUM",HBO XTREME OP2
@@ -296,7 +296,7 @@ http://190.27.253.211:8000/play/a05d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="ENTRETENIMIENTO",UNIVERSAL HD
 http://190.83.60.34:1414/play/a02u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="ENTRETENIMIENTO",UNIVERSAL HD OP2
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/26908
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/38719
 #EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg" group-title="ENTRETENIMIENTO",STUDIO UNIVERSAL
 http://190.27.253.211:8000/play/a07d/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg" group-title="ENTRETENIMIENTO",STUDIO UNIVERSAL OP2
@@ -318,7 +318,7 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9136
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png" group-title="ENTRETENIMIENTO",SPACE OP2
 http://190.83.60.34:1414/play/a01g
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.c98339a52309fce05f22a0b662130448?rik=PEEuqf5950bXyQ&riu=http%3a%2f%2fcablez.com.mx%2fwp-content%2fuploads%2f2017%2f03%2fPanico.png&ehk=ComIDC%2bW1CLDRnfsoOxzkytrCBfWOWHUx4%2fNIvrmLtA%3d&risl=&pid=ImgRaw&r=0" group-title="ENTRETENIMIENTO",PANICO
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/119335
+http://magi-stv.net:8080/BUZZTVAK/E9ZG2U/155171
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1280px-A%26E-Network-Logo.svg.png" group-title="ENTRETENIMIENTO",A&E
 http://190.83.60.34:1414/play/a01c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1280px-A%26E-Network-Logo.svg.png" group-title="ENTRETENIMIENTO",A&E OP 2
@@ -340,11 +340,11 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27980
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" group-title="ENTRETENIMIENTO",CINEMAX OP2
 http://190.83.60.34:1414/play/a02f
 #EXTINF:-1 tvg-logo="https://iparatodos.com.ar/uploads/canal/imagenes/CINECANAL.png" group-title="ENTRETENIMIENTO",CINECANAL
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/26903
+http://204.199.120.34:16123/play/ch10
 #EXTINF:-1 tvg-logo="https://iparatodos.com.ar/uploads/canal/imagenes/CINECANAL.png" group-title="ENTRETENIMIENTO",CINECANAL OP2
 http://190.27.253.211:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-lxk6HVdz2ME/VgcyW0SlNNI/AAAAAAAAlMo/9-OQcQd_PdQ/s1600/TBS-logo-2015.png" group-title="ENTRETENIMIENTO",TBS
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/1907
+http://sysadminhost.net:8080/messie2022/qswY3TjvNax5kNz9/5803
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-lxk6HVdz2ME/VgcyW0SlNNI/AAAAAAAAlMo/9-OQcQd_PdQ/s1600/TBS-logo-2015.png" group-title="ENTRETENIMIENTO",TBS OP 2
 http://190.83.119.67:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://duoylvxxmi2z2.cloudfront.net/hashtag/assets/tcm/logo.png" group-title="ENTRETENIMIENTO",TCM
@@ -364,13 +364,13 @@ http://45.166.92.22:58001/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/560px-E!_Logo.svg.png" group-title="ENTRETENIMIENTO",E! OP2
 http://190.61.102.67:31589/play/a03i/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" group-title="ENTRETENIMIENTO",GOLDEN
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/1473
+http://167.114.156.136:25461/INFINITV/ZX89NM22/181
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-8yad3yUi75w/W6lpOlyQASI/AAAAAAAAAI4/jL-5Dh27kwgFNYlTyTXYYfeP7kBamdZkgCPcBGAYYCw/s1600/goldenedge.png" group-title="ENTRETENIMIENTO",GOLDEN EDGE
 http://190.83.60.34:1414/play/a049
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="ENTRETENIMIENTO",GOLDEN PLUS
 http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/3051
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="ENTRETENIMIENTO",GOLDEN PREMIER
-http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/3052
+http://190.83.119.67:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/de-pelicula.png" group-title="ENTRETENIMIENTO",DE PELICULA
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/31740
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRMdFzHOZYEQAeqniX4n7Xn1cBQJKNMJoJiQ&usqp=CAU" group-title="ENTRETENIMIENTO",DE PELICULA PLUS
@@ -609,7 +609,7 @@ http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/3203
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7tQNOR4oaRg/WOVNdl6IBkI/AAAAAAACso0/fu-_vwRbVN8HqN4x9RNEFgJFI8seZTHKwCLcB/s1600/cosas.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/3203
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/Rd6ee1ce5c71fd7f2db593651f8cad295?rik=Cnxdtl56d6q6tg&pid=ImgRaw" group-title="DEPORTES",FOX SPORTS
-http://mains.services/live/Jhbxcgoisnm/56756756765722222/5985b5a7-fe57-4c62-b63b-04026dfe88c5.ts
+http://167.114.156.136:25461/INFINITV/ZX89NM22/173
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/Rd6ee1ce5c71fd7f2db593651f8cad295?rik=Cnxdtl56d6q6tg&pid=ImgRaw" group-title="DEPORTES",FOX SPORTS OP 2
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28008
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="DEPORTES",FOX SPORT 2
@@ -839,7 +839,7 @@ http://158.69.224.17:88/edmian/Crater.2023.720p%20(1).mkv
 #EXTINF:-1 tvg-logo="https://editorial.aristeguinoticias.com/wp-content/uploads/2022/11/Que_viva_mexico-poster.jpeg" group-title="MOVIES ESTRENOS HD",¡QUE VIVA MEXICO!
 http://158.69.224.17:88/edmian/Que%20viva%20M%c3%a9xico.2023.720P.mkv
 #EXTINF:-1 tvg-logo="https://www.nintenderos.com/wp-content/uploads/2023/02/pelicula-marios.jpg" group-title="MOVIES ESTRENOS HD",SUPER MARIO BROS: LA PELICULA 
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/abril/Ver%20S%C3%BAper%20Mario%20Bros-%20La%20pel%C3%ADcula%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
+https://www.cinedds.online/stuff/mario.mp4
 #EXTINF:-1 tvg-logo="https://img.asmedia.epimg.net/resizer/o8og0pk6o2mG-WteJlnbFjPBKi8=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/RPOHCYGEK5GYJFS4OGALB6OKVI.jpg" group-title="MOVIES ESTRENOS HD",EVIL DEAD RISE: EL DESPERTAR
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/mayooo/Ver%20Evil%20Dead-%20El%20despertar%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/movsgold.com/wp-content/uploads/2023/04/Renfield-Asistente-de-vampiro-Fecha-estreno-en-Peru-sinopsis-reparto-poster-y-mas-Movsgold.jpg?fit=1200%2C675&ssl=1" group-title="MOVIES ESTRENOS HD",RENFIELD: ASISTENTE DE VAMPIRO
@@ -867,7 +867,7 @@ http://45.179.164.59:8181/Peliculas/2023/Mighty.Morphin.Power.Rangers.Once.&.Alw
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ve96Bzj7cnY/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",GHOSTEADO
 http://208.88.245.81/nuevo/ghosted.dual.2023.mkv
 #EXTINF:-1 tvg-logo="https://popculturetimes.com/wp-content/uploads/2020/09/John-Wick-Chapter-4-release-date-696x425.jpg" group-title="MOVIES ESTRENOS HD",JOHN WICK 4
-https://ia804709.us.archive.org/7/items/bl-4ck-ph-4nth-3r-w-4k-4nd-4-f-0r-3v-3r_202302/Jh0n.W1ck.4.C4m.mp4
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4
 #EXTINF:-1 tvg-logo="https://cinescape.kinsta.cloud/wp-content/uploads/2021/06/Antman-and-the-wasp-Quantumania-1-1024x512-1-750x430.jpg" group-title="MOVIES ESTRENOS HD",ANT-MAN Y LA AVISPA: QUANTUMANIA
 http://51.81.208.167/pelis2023/Ant-Man.and.the.Wasp.Quantumania.2023.720p-dual-lat.mkv
 #EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2023/04/siete-reyes-deben-morir-netflix-3014018.jpg?itok=UXHgtFJG" group-title="MOVIES ESTRENOS HD",SIETE REYES DEBEN MORIR
