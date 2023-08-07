@@ -368,7 +368,7 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/181
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-8yad3yUi75w/W6lpOlyQASI/AAAAAAAAAI4/jL-5Dh27kwgFNYlTyTXYYfeP7kBamdZkgCPcBGAYYCw/s1600/goldenedge.png" group-title="ENTRETENIMIENTO",GOLDEN EDGE
 http://190.83.60.34:1414/play/a049
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="ENTRETENIMIENTO",GOLDEN PLUS
-http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/3051
+http://168.228.194.33:48001/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="ENTRETENIMIENTO",GOLDEN PREMIER
 http://190.83.119.67:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/de-pelicula.png" group-title="ENTRETENIMIENTO",DE PELICULA
@@ -397,7 +397,7 @@ http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/9047
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png" group-title="MUSICA",MTV LIVE OP2
 https://vivo.lamtv.tv:8081/a/0084/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-brand-png-logo-15.png" group-title="MUSICA",MTV
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/26944
+http://168.228.194.33:48001/play/a05j/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-brand-png-logo-15.png" group-title="MUSICA",MTV OP 2
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/2340
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/MTV_Dance_2017_logo_Australia.svg/1200px-MTV_Dance_2017_logo_Australia.svg.png" group-title="MUSICA",MTV DANCE
@@ -593,7 +593,7 @@ http://190.83.60.34:1414/play/a03n
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_wordmark.png" group-title="DEPORTES",ESPN
 http://190.83.60.34:1414/play/a036
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_wordmark.png" group-title="DEPORTES",ESPN OP 2
-http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/9070
+http://168.228.194.33:48001/play/a0b3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2
 http://190.83.60.34:1414/play/a02c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 OP 2
@@ -605,7 +605,7 @@ http://190.83.60.34:1414/play/a026
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.1522528359_ESPN4_Blanco.png.94baa236c27d1b47d48584df19f07993.png" group-title="DEPORTES",ESPN 4
 http://190.27.253.211:8000/play/a08e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="DEPORTES",ESPN SPORTS PREMIUM
-http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/3203
+http://168.228.194.33:48001/play/a0bu/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7tQNOR4oaRg/WOVNdl6IBkI/AAAAAAACso0/fu-_vwRbVN8HqN4x9RNEFgJFI8seZTHKwCLcB/s1600/cosas.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/3203
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/Rd6ee1ce5c71fd7f2db593651f8cad295?rik=Cnxdtl56d6q6tg&pid=ImgRaw" group-title="DEPORTES",FOX SPORTS
@@ -631,9 +631,9 @@ http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/65750
 #EXTINF:-1 tvg-logo="http://img4.wikia.nocookie.net/__cb20120805063727/logopedia/images/thumb/9/98/Univision_tdn_1.png/500px-Univision_tdn_1.png" group-title="DEPORTES",UNIVISION TUDN
 http://45.5.117.172:8000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES",AFIZZIONADOS
-http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298042
+http://tv.thepremiummedia.com:8080/javierjorge/123456/8248
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/800px-TUDN_Logo.svg.png" group-title="DEPORTES",TUDN HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25338
+http://168.228.194.33:48001/play/a0at/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES",GOLTV
 http://45.166.92.22:58001/play/a04k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES",GOLTV 2
@@ -653,7 +653,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png" group-title="DEPORTES",CLARO SPORTS
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3012
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png" group-title="DEPORTES",CLARO SPORTS OP2
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2564/PROFILE03.m3u8
+http://168.228.194.33:48001/play/a031/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.ClaroSports2.png.56053360e8aac876562fd738f2b7ff59.png" group-title="DEPORTES",CLARO SPORTS 2
 http://190.61.102.67:8000/play/a012
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/adrenalina-sports.network.png" group-title="DEPORTES",ADRENALINA SPORTS HD
@@ -663,7 +663,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11915.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="DEPORTES",MOVISTAR LA LIGA
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/79634.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",WIN SPORTS
-http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8345
+http://tv.thepremiummedia.com:8080/javierjorge/123456/1155795
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/200px-Win_Sports%2B_logo.svg.png" group-title="DEPORTES",WIN SPORTS PLUS
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/294455
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="DEPORTES",BEIN SPORTS
@@ -783,6 +783,8 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/1469
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",araña
 http://144.217.70.79/VODS-M/1080P/Saw%204%202007.mkv
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CiEmz8KOg9o/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",INSIDIOUS: LA PUERTA ROJA
+https://archive.org/download/01_20230801_20230801_2026/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hk1nmLedMAY/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",LAS AVENTURAS DE LADYBUG LA PELICULA
 https://www.mediafire.com/file_premium/ia9nnoaxn04ifa2/n45lZzuQZ1GV5bx2gCXfO9%252BOGsfgMXNCIo6_kqAq.mp4/file
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lvtdCBUmxT3CZ7T7wIFFy8rhEeb.jpg" group-title="MOVIES ESTRENOS HD",LA SIRENITA
