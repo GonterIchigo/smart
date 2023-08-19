@@ -11,7 +11,7 @@ http://204.199.120.34:16123/play/ch44
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png" group-title="MEXICO",LAS ESTRELLAS HD OP2
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27976
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png" group-title="MEXICO",LAS ESTRELLAS HD OP3
-http://45.5.117.172:8000/play/a05n/index.m3u8
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/3005
 #EXTINF:-1 tvg-logo="http://unidosok.com/wp-content/uploads/2020/02/ESTRELLA-TV-WHITE-LETTER-TRANSPARENT.png" group-title="MEXICO",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://unidosok.com/wp-content/uploads/2020/02/ESTRELLA-TV-WHITE-LETTER-TRANSPARENT.png" group-title="MEXICO",ESTRELLA TV OP2
@@ -23,17 +23,17 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO",AZTECA UNO OP2
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9025
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="MEXICO",AZTECA 7 HD
-http://45.5.117.172:8000/play/a05q/index.m3u8
+http://sysadminhost.net:8080/Miglior/KLEPNg9fEC7gusKS/9026
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="MEXICO",AZTECA 7  OP2
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_713.png" group-title="MEXICO",AZ CLIC HD
-http://45.5.117.172:8000/play/a0gz/index.m3u8
+http://168.228.194.33:48001/play/a060/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png" group-title="MEXICO",AZ MUNDO
-http://45.5.117.172:8000/play/a0h8/index.m3u8
+http://168.228.194.33:48001/play/a07q/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" group-title="MEXICO",AZ CINEMA 
 http://190.83.60.34:1414/play/a03y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 HD
-http://sysadminhost.net:8080/messie2022/qswY3TjvNax5kNz9/9024
+http://sysadminhost.net:8080/Miglior/KLEPNg9fEC7gusKS/9024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 HD OP 2 
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9024
 #EXTINF:-1 tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="MEXICO",NU9VE
@@ -45,7 +45,7 @@ http://tv.thepremiummedia.com:8080/javierjorge/123456/1155855
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Galavisi%C3%B3n_logo2012.png" group-title="MEXICO",GALAVISION
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/71860
 #EXTINF:-1 tvg-logo="https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png" group-title="MEXICO",UNIVISION MIAMI
-http://sysadminhost.net:8080/messie2022/qswY3TjvNax5kNz9/172655
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/172655
 #EXTINF:-1 tvg-logo="https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png" group-title="MEXICO",UNIVISION LOS ANGELES
 https://live.telelatinohd.com:25463/live/LizardTV/9c3LcSvvgcpQ/62.m3u8
 #EXTINF:-1 tvg-logo="https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png" group-title="MEXICO",UNIVISION
@@ -84,13 +84,13 @@ http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/5782
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="NOVELAS",AZ CORAZÓN
-http://167.114.156.136:25461/INFINITV/ZX89NM22/117
+http://168.228.194.33:48001/play/a050/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="NOVELAS",AZ CORAZÓN OP2
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2999
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/7b/b9/1754376d4e608523ff87670c7a4e/canalu.png" group-title="NOVELAS",UNICABLE
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28043
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/7b/b9/1754376d4e608523ff87670c7a4e/canalu.png" group-title="NOVELAS",UNICABLE HD
-https://live.telelatinohd.com:25463/live/LizardTV/9c3LcSvvgcpQ/63.m3u8
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/5804
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="NOVELAS",PASIONES
 http://168.228.194.33:48001/play/a0a0/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="NOVELAS",PASIONES OP 2
@@ -108,11 +108,11 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28014
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="NOVELAS",TELEMUNDO INTERNACIONAL
 http://tv.thepremiummedia.com:8080/javierjorge/123456/43189
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="NOVELAS",TELEMUNDO INTERNACIONAL OP2 
-http://sysadminhost.net:8080/messie2022/qswY3TjvNax5kNz9/298828
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/3117
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="NOVELAS",TELEMUNDO PUERTO RICO  
 http://45.166.92.22:58001/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt-novelas@3x.png" group-title="NOVELAS",TNT NOVELAS
-http://sysadminhost.net:8080/messie2022/qswY3TjvNax5kNz9/9124
+http://sysadminhost.net:8080/Miglior/KLEPNg9fEC7gusKS/9124  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1920px-LogoNTyLR.svg.png" group-title="NOVELAS",RCN  
 http://190.27.253.211:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1920px-LogoNTyLR.svg.png" group-title="NOVELAS",RCN OP2
@@ -147,9 +147,9 @@ http://168.228.194.33:48001/play/a05h/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="CULTURA",H2
 http://190.27.253.211:8000/play/a072/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="CULTURA",H2 OP2
-http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/273073
+http://191.98.179.21:50000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1.png" group-title="CULTURA",DISCOVERY CHANNEL MX
-http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/280388
+http://191.98.179.21:50000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1.png" group-title="CULTURA",DISCOVERY CHANNEL OP2
 http://168.228.194.33:48001/play/a09y/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/tv1_sci-white.png" group-title="CULTURA",DISCOVERY SCIENCE  
@@ -173,7 +173,7 @@ http://168.228.194.33:48001/play/a09z/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="CULTURA",DISCOVERY ID
 http://168.228.194.33:48001/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="CULTURA",DISCOVERY ID OP2
-http://45.5.117.172:8000/play/a0ks/index.m3u8
+http://191.98.179.21:50000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/4096px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA",DISCOVERY THEATER
 http://167.114.156.136:25461/INFINITV/ZX89NM22/217
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/4096px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA",DISCOVERY THEATER OP 2
@@ -184,7 +184,7 @@ http://45.5.117.172:8000/play/a0hh/index.m3u8
 http://168.228.194.33:48001/play/a07z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-6TeTUuHgsxI/VrV2aR1efMI/AAAAAAAAGs0/f-yRhAXo-RU/s640/Tooncas_logo_jpg.png" group-title="CARTOONS",TOONCAST
-http://sysadminhost.net:8080/messie2022/qswY3TjvNax5kNz9/3091
+http://168.228.194.33:48001/play/a07p/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-6TeTUuHgsxI/VrV2aR1efMI/AAAAAAAAGs0/f-yRhAXo-RU/s640/Tooncas_logo_jpg.png" group-title="CARTOONS",TOONCAST OP 2
 http://190.83.119.67:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="CARTOONS",DISCOVERY KIDS MX
@@ -192,25 +192,25 @@ http://204.199.120.34:16123/play/ch02
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="CARTOONS",DISCOVERY KIDS PREMIUM
 http://168.228.194.33:48001/play/a00x/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="CARTOONS",NICKELODEO
-http://sysadminhost.net:8080/messie2022/qswY3TjvNax5kNz9/3076
+http://191.98.179.21:50000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="CARTOONS",NICK OP 2
 http://190.83.60.34:1414/play/a01s
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/73545.png" group-title="CARTOONS",NICK TEEN
-http://45.5.117.172:8000/play/a03f/index.m3u8
+http://168.228.194.33:48001/play/a05o/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/73545.png" group-title="CARTOONS",NICK TEEN OP2
 http://190.61.102.67:8000/play/a04l
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="CARTOONS",CARTOON NETWORK
 http://190.83.60.34:1414/play/a03u
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="CARTOONS",CARTOON NETWORK HD
-http://45.5.117.172:8000/play/a0l0/index.m3u8
+http://191.98.179.21:50000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="CARTOONS",DISNEY CHANNEL
 http://204.199.120.34:16123/play/ch03
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="CARTOONS",DISNEY CHANNEL OP 2
 http://190.27.253.211:8000/play/a065/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="CARTOONS",CARTOONITO
-http://45.5.117.172:8000/play/a0g0/index.m3u8
+http://168.228.194.33:48001/play/a04u/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="CARTOONS",CARTOONITO OP2
-http://sysadminhost.net:8080/messie2022/qswY3TjvNax5kNz9/9088
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/9088
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/canal_bitme_6838.png" group-title="CARTOONS",BIT ME
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/47946
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/340?cb=20200125124642&path-prefix=es" group-title="CARTOONS",LOCOMOTION
@@ -220,11 +220,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL116/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="CARTOONS",NICK JR
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/29310
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png" group-title="CARTOONS",NICK JR OP 2
-http://45.5.117.172:8000/play/a0fz/index.m3u8
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/29310
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-VvbUqgHc5Pw/VJIJWAJLxfI/AAAAAAAAHi0/A0nDmO29zwk/s1600/Logo%2BDisney_Junior.png" group-title="CARTOONS",DISNEY JR
-http://sysadminhost.net:8080/messie2022/qswY3TjvNax5kNz9/3026
+http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/9042
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-VvbUqgHc5Pw/VJIJWAJLxfI/AAAAAAAAHi0/A0nDmO29zwk/s1600/Logo%2BDisney_Junior.png" group-title="CARTOONS",DISNEY JR OP2
-http://45.5.117.172:8000/play/a0g1/index.m3u8
+http://191.98.179.21:50000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/BabyFirst.svg/953px-BabyFirst.svg.png" group-title="CARTOONS",BABY FIRST
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1984/PROFILE03.m3u8
 
@@ -243,7 +243,7 @@ http://168.228.194.33:48001/play/a036/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="ENTRETENIMIENTO PREMIUM",HBO XTREME
 http://45.166.92.22:58001/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="ENTRETENIMIENTO PREMIUM",HBO XTREME OP2
-http://45.5.117.172:8000/play/a0l6/index.m3u8
+http://191.98.179.21:50000/play/a02g/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png" group-title="ENTRETENIMIENTO PREMIUM",HBO FAMILY
 http://168.228.194.33:48001/play/a037/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png" group-title="ENTRETENIMIENTO PREMIUM",HBO FAMILY OP2
@@ -259,15 +259,15 @@ http://play.flamaplus.tv:80/play/hUAC2XCgtW0N0759MiAJMMjzeLc7sN2qTL0Oi0Y0_ak/ts
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097951981-HBO-signature-pequenio-b.png" group-title="ENTRETENIMIENTO PREMIUM",HBO SIGNATURE
 http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/3059
 #EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/780277389.png" group-title="ENTRETENIMIENTO PREMIUM",UNIVERSAL CRIME
-http://45.5.117.172:8000/play/a0i4/index.m3u8
+http://168.228.194.33:48001/play/a08l/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/120254749.png" group-title="ENTRETENIMIENTO PREMIUM",UNIVERSAL REALITY
-http://45.5.117.172:8000/play/a0i3/index.m3u8
+http://168.228.194.33:48001/play/a08k/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/398064723.png" group-title="ENTRETENIMIENTO PREMIUM",UNIVERSAL PREMIER
-http://45.5.117.172:8000/play/a0i2/index.m3u8
+http://168.228.194.33:48001/play/a08j/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/731381553.png" group-title="ENTRETENIMIENTO PREMIUM",UNIVERSAL CINEMA
-http://45.5.117.172:8000/play/a0kt/index.m3u8
+http://168.228.194.33:48001/play/a0a3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/172050409.png" group-title="ENTRETENIMIENTO PREMIUM",UNIVERSAL COMEDY
-http://45.5.117.172:8000/play/a0i5/index.m3u8
+http://168.228.194.33:48001/play/a08m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/9126
@@ -280,7 +280,7 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27982
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="ENTRETENIMIENTO",STAR CHANNEL HD
 http://168.228.194.33:48001/play/a084/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="ENTRETENIMIENTO",STAR CHANNEL HD OP2
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/5785
+http://191.98.179.21:50000/play/a025/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/587463.png" group-title="ENTRETENIMIENTO",FX HD
 http://204.199.120.34:16123/play/ch08
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/587463.png" group-title="ENTRETENIMIENTO",FX HD OP2
@@ -302,11 +302,11 @@ http://tv.thepremiummedia.com:8080/javierjorge/123456/1156005
 #EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg" group-title="ENTRETENIMIENTO",STUDIO UNIVERSAL
 http://190.27.253.211:8000/play/a07d/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg" group-title="ENTRETENIMIENTO",STUDIO UNIVERSAL OP2
-http://45.5.117.172:8000/play/a0go/index.m3u8
+http://191.98.179.21:50000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="ENTRETENIMIENTO",WARNER HD
 http://sysadminhost.net:8080/linuxapp2021/zdFTTQCKXWq84YWF/9142
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png" group-title="ENTRETENIMIENTO",WARNER HD OP2
-https://live.telelatinohd.com:25463/live/LizardTV/9c3LcSvvgcpQ/341.m3u8
+http://191.98.179.21:50000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="ENTRETENIMIENTO",TNT
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28039
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="ENTRETENIMIENTO",TNT OP2
@@ -316,7 +316,7 @@ http://190.27.253.211:8000/play/a07s/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TNT_Serie.svg/649px-TNT_Serie.svg.png" group-title="ENTRETENIMIENTO",TNT SERIES OP2
 http://190.83.60.34:1414/play/a034
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png" group-title="ENTRETENIMIENTO",SPACE
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9136
+http://191.98.179.21:50000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png" group-title="ENTRETENIMIENTO",SPACE OP2
 http://190.83.60.34:1414/play/a01g
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.c98339a52309fce05f22a0b662130448?rik=PEEuqf5950bXyQ&riu=http%3a%2f%2fcablez.com.mx%2fwp-content%2fuploads%2f2017%2f03%2fPanico.png&ehk=ComIDC%2bW1CLDRnfsoOxzkytrCBfWOWHUx4%2fNIvrmLtA%3d&risl=&pid=ImgRaw&r=0" group-title="ENTRETENIMIENTO",PANICO
@@ -332,7 +332,7 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27970
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.d0e69673d5e442ae5e78911cfb415d18?rik=Ikf8YN%2bcXbY%2fVg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2faxn-logo-vector-png-axn-logo-eps-vector-download-axn-450.png&ehk=nB3WTxrU%2fPrF572yLEuPgBxEOB3D6SR3Oi4RivKIVk4%3d&risl=&pid=ImgRaw&r=0" group-title="ENTRETENIMIENTO",AXN
 http://190.83.60.34:1414/play/a01f
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.d0e69673d5e442ae5e78911cfb415d18?rik=Ikf8YN%2bcXbY%2fVg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2faxn-logo-vector-png-axn-logo-eps-vector-download-axn-450.png&ehk=nB3WTxrU%2fPrF572yLEuPgBxEOB3D6SR3Oi4RivKIVk4%3d&risl=&pid=ImgRaw&r=0" group-title="ENTRETENIMIENTO",AXN OP 2
-http://190.61.102.67:8000/play/a07a
+http://191.98.179.21:50000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-0-1536x1536.png" group-title="ENTRETENIMIENTO",PARAMOUNT
 http://190.83.60.34:1414/play/a03v
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-0-1536x1536.png" group-title="ENTRETENIMIENTO",PARAMOUNT OP 2
@@ -381,7 +381,7 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298053
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/TLHIT_logo.png/245px-TLHIT_logo.png" group-title="MUSICA",TELEHIT
 https://linear-479.frequency.stream/dist/vix/479/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/TLHIT_logo.png/245px-TLHIT_logo.png" group-title="MUSICA",TELEHIT OP 2
-http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/26940
+http://191.98.179.21:50000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_eTwBAQAvlyG82g202STXCZ4jNt4_Zw7gWg&usqp=CAU" group-title="MUSICA",TELEHIT PLUS
 http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/1315
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="MUSICA",NICK MUSIC
@@ -391,7 +391,7 @@ http://latintvec.com:43201/gerardovargas8/Z85pM6oxi0/26941
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2020/04/VH1.jpeg" group-title="MUSICA",VH1 HD OP2
 http://2hubs.ddns.net:25461/Iptr33/aQJScdWR8n9r/62673
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/1200px-LOGO_VH1_CLASSIC.svg.png" group-title="MUSICA",VH1 CLASSIC
-http://gotv.vip:8880/live/ALFL5HF5VFpWMYS/cambio/674.m3u8
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/94.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="MUSICA",MTV HITS
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/4736
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png" group-title="MUSICA",MTV LIVE
@@ -589,7 +589,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?advertisingId=&appName=web&appVersion=5.106.0-f3e2ac48d1dbe8189dc784777108b725b4be6be2&app_name=web&clientDeviceType=0&clientID=1d32070e-dae1-4f58-bd0d-f5c74f89cd0f&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=0098c5c8-cd24-11eb-98a9-0242ac110002&sid=0098c5c8-cd24-11eb-98a9-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="DEPORTES",ESPN EXTRA 
-http://45.5.117.172:8000/play/a0gl/index.m3u8
+http://191.98.179.21:50000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="DEPORTES",ESPN EXTRA OP2
 http://190.83.60.34:1414/play/a03n
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_wordmark.png" group-title="DEPORTES",ESPN
@@ -599,7 +599,7 @@ http://168.228.194.33:48001/play/a0b3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2
 http://190.83.60.34:1414/play/a02c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 OP 2
-http://45.5.117.172:8000/play/a0ki/index.m3u8
+http://191.98.179.21:50000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3032
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 OP 2
@@ -615,11 +615,11 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/173
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/Rd6ee1ce5c71fd7f2db593651f8cad295?rik=Cnxdtl56d6q6tg&pid=ImgRaw" group-title="DEPORTES",FOX SPORTS OP 2
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28008
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="DEPORTES",FOX SPORT 2
-https://live.telelatinohd.com:25463/live/LizardTV/9c3LcSvvgcpQ/25.m3u8
+http://191.98.179.21:50000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="DEPORTES",FOX SPORT 2 OP 2
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62804
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b3/08/8c/b3088cdf394935e26f9e9da5be7cd946.png" group-title="DEPORTES",FOX SPORT 3
-http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62805
+http://191.98.179.21:50000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b3/08/8c/b3088cdf394935e26f9e9da5be7cd946.png" group-title="DEPORTES",FOX SPORT 3 OP 2
 http://204.199.120.34:16123/play/ch21
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f7414ac0674bae38158d34fd5fde3630f8e3be01aa74c4ba9168d1ca52450214.png" group-title="DEPORTES",FUTBOL NETWORK
@@ -631,9 +631,9 @@ http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/31645
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1719px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="DEPORTES",DIRECTV SPORTS PLUS
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/65750
 #EXTINF:-1 tvg-logo="http://img4.wikia.nocookie.net/__cb20120805063727/logopedia/images/thumb/9/98/Univision_tdn_1.png/500px-Univision_tdn_1.png" group-title="DEPORTES",UNIVISION TUDN
-http://45.5.117.172:8000/play/a05p/index.m3u8
+http://168.228.194.33:48001/play/a0at/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES",AFIZZIONADOS
-http://tv.thepremiummedia.com:8080/javierjorge/123456/8248
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/43.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/800px-TUDN_Logo.svg.png" group-title="DEPORTES",TUDN HD
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25338
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES",GOLTV
@@ -665,7 +665,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11915.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="DEPORTES",MOVISTAR LA LIGA
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/79634.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",WIN SPORTS
-http://sysadminhost.net:8080/messie2022/qswY3TjvNax5kNz9/8345
+http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/78854.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/200px-Win_Sports%2B_logo.svg.png" group-title="DEPORTES",WIN SPORTS PLUS
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/294455
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="DEPORTES",BEIN SPORTS
@@ -783,12 +783,28 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://51.222.43.170:8001/cristiancl/cirtianiptv/1469
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",saw
+#EXTINF:-1 tvg-logo="https://th.bing.com/th?id=OIF.26hdz9A5K5mKY7S0%2bdTZsw&pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",saw
+https://nsfw-dl.glitch.me/1001953408171/7452
 http://144.217.70.79/VODS-M/1080P/Spiral%20From%20the%20Book%20of%20Saw%202021.mkv
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",SPIDER-MAN:ACROSS THE SPIDER-VERSE
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CiEmz8KOg9o/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",INSIDIOUS: LA PUERTA ROJA
 https://ia802706.us.archive.org/32/items/01_20230801_20230801_2026/01.mp4
+#EXTINF:-1 tvg-logo="https://occ-0-58-32.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABfe66o78w6nwSI8X71cj6YBeBJek40jxOcxIdqT90KT4y2eH4zAg418bIQaYdVPULslIt-P6TcH8vIM_ctdhzejnQDgfKfi0PGcA.jpg?r=84d" group-title="MOVIES ESTRENOS HD",PROYECTO EXTRACCIÓN
+https://ia902704.us.archive.org/15/items/01_20230801_20230801_2036/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hk1nmLedMAY/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",LAS AVENTURAS DE LADYBUG LA PELICULA
 https://www.mediafire.com/file_premium/ia9nnoaxn04ifa2/n45lZzuQZ1GV5bx2gCXfO9%252BOGsfgMXNCIo6_kqAq.mp4/file
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91RDJ47IY6L._RI_.jpg" group-title="MOVIES ESTRENOS HD",INVINCIBLE: ATOM EVE
+https://ia802707.us.archive.org/29/items/01_20230801_20230801_2052/01.mp4
+#EXTINF:-1 tvg-logo="https://occ-0-34-56.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABeJ2FzjUpaz-U_KzmVm9QzEBxJZ-UcFUcn8AbJahKr9sDvuPd7SEE3Jad0H908FhmqrmoHN9kg_3sqkgj_CssWxV8fh0DwNYASsnSyhIb5fi_ScMhe32R8olkfPjvtOdfsVcqA.jpg?r=5cb" group-title="MOVIES ESTRENOS HD",PARADISE
+https://ia802705.us.archive.org/17/items/01_20230801_20230801_2301/01.mp4
+#EXTINF:-1 tvg-logo="https://images.gids.tv/films/77850/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-1691311108898.jpg?watermark%5Btext%5D=Bron%3A+Netflix" group-title="MOVIES ESTRENOS HD",ZOM 100:COSAS QUE QUIERO HACER ANTES DE COMVERTIRME EN ZOMBIE
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/agosto/Ver%20Zom%20100-%20Cien%20cosas%20que%20quiero%20hacer%20antes%20de%20convertirme%20en%20zombi%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 tvg-logo="https://ep01.epimg.net/tematicos/imagenes/2023/06/02/elpaismas/1685705970_191316_1685707446_noticia_normal.jpg" group-title="MOVIES ESTRENOS HD",OPERACION KANDAHAR
+https://ia802706.us.archive.org/12/items/01_20230801_20230801_2103/01.mp4
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.zIYPI5z82ESB3JX8OnmKVwHaEK?pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",DIVINA SEÑAL
+https://www.mediafire.com/file_premium/n4t3gjrxc3guufe/divinasenal.mp4/file
+#EXTINF:-1 tvg-logo="https://www.justwatch.com/images/backdrop/306189834/s640/happiness-for-beginners" group-title="MOVIES ESTRENOS HD",FELICIDAD PARA PRINCIPIANTES
+https://ia902704.us.archive.org/14/items/01_20230801_20230801_2211/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lvtdCBUmxT3CZ7T7wIFFy8rhEeb.jpg" group-title="MOVIES ESTRENOS HD",LA SIRENITA
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/julio/Ver%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 #EXTINF:-1 tvg-logo="https://viciados.net/wp-content/uploads/2023/06/Resident-Evil-Death-Island-Sony-Blu-Ray-July-25.webp" group-title="MOVIES ESTRENOS HD",RESIDENT EVIL: DEATH ISLAND
