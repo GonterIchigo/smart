@@ -784,11 +784,35 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 http://51.222.43.170:8001/cristiancl/cirtianiptv/1469
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?id=OIF.26hdz9A5K5mKY7S0%2bdTZsw&pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",saw
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",MEGALODON 2
+http://208.88.245.85/nuevo/meg2.el.gran.abismo.dual2023.mkv
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",LOS HABITANTES
+http://208.88.245.85/nuevo/los.habitantes.2023.latino.mkv
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",SOOPY PRESENTA: LA INIGUALABLE MARCIE
+http://208.88.245.85/nuevo/snoopypresenta.launicaeinigualable.marcie.dual2023.mkv
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",EL REY MONO
+https://www.polimor.club/movies/reymono.mp4
+#EXTINF:-1 tvg-logo="https://tvstarsinfo.com/wp-content/uploads/2022/07/oppenheimer-001.jpg" group-title="MOVIES ESTRENOS HD",OPPENHEIMER
+http://208.88.245.85/nuevo/oppenheimer.2023.dual.mkv
+#EXTINF:-1 tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2023/02/elemental-1024x576.jpg" group-title="MOVIES ESTRENOS HD",ELEMENTAL
+https://www.polimor.club/movies/elemental.mp4
+#EXTINF:-1 tvg-logo="https://noescinetodoloquereluce.com/wp-content/uploads/2022/05/mism1.png" group-title="MOVIES ESTRENOS HD",MISION IMPOSIBLE SENTENCIA MORTAL - PARTE 1
+http://208.88.245.85/nuevo/misionimposible.senmortal.2023.dual.mkv
+#EXTINF:-1 tvg-logo="https://occ.a.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABU5DfilVvuChEyL3CPRWRbjUmqxZCPmqex1Su9U9hFVOUmO9XbI_TvfNKeOMrVDQKne7SCbROfuxrPqEvCljWwFfU__wJGdfd-Jf_2axLLwnJmDZnQSUAM2W1sS6giTDgXUQCw.jpg?r=f52" group-title="MOVIES ESTRENOS HD",AGENTE STONE
+https://www.polimor.club/movies/stone.mp4
+#EXTINF:-1 tvg-logo="https://www.periodicoelmosquito.com/wp-content/uploads/2023/03/BANNER.jpg" group-title="MOVIES ESTRENOS HD",LOS TRES MOSQUETEROS 
+https://www.polimor.club/movies/mosqueteros.mp4
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCgIFTFS9-eXitsZfR-WZIPVy7UXgMq9YMKmjR5aqCl8phtEPcBgkHb34jj18XDCK3-VKgoPVXMbpFIbDowfYfjiMtwrBOW8xv8A4E0AqH-BN1clgT73qI9PKUw93__dFOpJ1hHC0gPUTxrS56s77XOp-GHa_SfR6XaZQ54mZip29P_reE5w5nOkKZ15U/s1200/la%20fiebre%20de%20los%20peluches%20beanie.jpg" group-title="MOVIES ESTRENOS HD",LA FIEBRE DE LOS PELUCHES  
+http://208.88.245.81/nuevo/la.fiebre.dlos.peluches.beanie.dual2023.mkv
+#EXTINF:-1 tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/06/zoey-102-header.jpg" group-title="MOVIES ESTRENOS HD",ZOEY 102
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/agosto/Watch%20Zoey%20102%202023%201080p%20Latino%20mkv.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b1289b5177beca285fa1eaeaf257e7d36ac0628a257cdfc973afe999c44a97e5._UY500_UX667_RI_TTW_.jpg" group-title="MOVIES ESTRENOS HD",QUIZAS PARA SIEMPRE
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/agosto/Watch%20maybe%202023%20lat%201080p%20mp4.mp4
 http://144.217.70.79/VODS-M/1080P/Spiral%20From%20the%20Book%20of%20Saw%202021.mkv
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?id=OIF.26hdz9A5K5mKY7S0%2bdTZsw&pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",SPIDER-MAN:ACROSS THE SPIDER-VERSE
 https://nsfw-dl.glitch.me/1001953408171/7452
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CiEmz8KOg9o/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",INSIDIOUS: LA PUERTA ROJA
-https://ia802706.us.archive.org/32/items/01_20230801_20230801_2026/01.mp4
+http://208.88.245.81/nuevo/insidiuos.puertaroja.dual2023.mkv
 #EXTINF:-1 tvg-logo="https://occ-0-58-32.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABfe66o78w6nwSI8X71cj6YBeBJek40jxOcxIdqT90KT4y2eH4zAg418bIQaYdVPULslIt-P6TcH8vIM_ctdhzejnQDgfKfi0PGcA.jpg?r=84d" group-title="MOVIES ESTRENOS HD",PROYECTO EXTRACCIÓN
 https://ia902704.us.archive.org/15/items/01_20230801_20230801_2036/01.mp4
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/original/2023/07/17/64b5e6118af57816854e7855.jpg" group-title="MOVIES ESTRENOS HD",LAS AVENTURAS DE LADYBUG LA PELICULA
