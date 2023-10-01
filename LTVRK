@@ -781,8 +781,8 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://187.188.232.236:1020/play/a00l/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD", Annabelle 2
-http://144.217.70.79/VODS-M/1080P/Annabelle%202%20creation%202017.mkv
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD", Nowhere 
+https://gmzobe5mgel9.lions-vidcdn.com/hls2/01/00648/i7r5e8fikkrb_n/master.m3u8?t=qCpiPj2-vOyeDQu4TuDKS_a10CCMl4uKcUgUPYw9okM&s=1696188827&e=129600&f=3273411&srv=y8cwp9FNXm6W&i=0.4&sp=1500&p1=y8cwp9FNXm6W&p2=y8cwp9FNXm6W&asn=8151
 #EXTINF:-1 tvg-logo="https://imgmedia.libero.pe/652x359/libero/original/2023/08/05/64ce460a3548a62b950a0f49.webp" group-title="MOVIES ESTRENOS HD",TORTUGAS NINJA: CAOS MUTANTE
 https://www.mediafire.com/file_premium/e6wittsetdq5mxb/t33n4g3.mut4nt.n1nj4.turtl3s.mut4nt.m4yh3m.2023.hdrip.1080p.latino.mp4/file
 #EXTINF:-1 tvg-logo="https://www.netflixplans.com/wp-content/uploads/2023/07/Blue-Beettle-Movie.jpg?vqgpb" group-title="MOVIES ESTRENOS HD",BLUE BEETLE
