@@ -781,8 +781,8 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://187.188.232.236:1020/play/a00l/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD", conjuro
-http://144.217.70.79/VODS-M/1080P/The%20Conjuring%202013.mkv
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD", la monja 2
+https://delivery-node-vysg0fj8mubgoi6p.voe-network.net/engine/hls2-c/01/09638/esmecns2c2fu_,n,.urlset/index-v1-a1.m3u8?t=WNNVgYk6wLAdAYxP_TA5eBuNNYuHx7J8Ep4iJcp_FJo&s=1696472108&e=14400&f=48193658&node=delivery-node-eu7doujwfdtzkhx0.voe-network.net&i=187.235&sp=2500&asn=8151
 #EXTINF:-1 tvg-logo="https://imgmedia.libero.pe/652x359/libero/original/2023/08/05/64ce460a3548a62b950a0f49.webp" group-title="MOVIES ESTRENOS HD",TORTUGAS NINJA: CAOS MUTANTE
 https://www.mediafire.com/file_premium/e6wittsetdq5mxb/t33n4g3.mut4nt.n1nj4.turtl3s.mut4nt.m4yh3m.2023.hdrip.1080p.latino.mp4/file
 #EXTINF:-1 tvg-logo="https://www.netflixplans.com/wp-content/uploads/2023/07/Blue-Beettle-Movie.jpg?vqgpb" group-title="MOVIES ESTRENOS HD",BLUE BEETLE
