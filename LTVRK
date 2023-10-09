@@ -781,6 +781,9 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://187.188.232.236:1020/play/a00l/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://diseccionmoon.com/wp-content/uploads/2023/08/1-MII.jpg" group-title="MOVIES ESTRENOS HD",anabelle 3
+http://144.217.70.79/VODS-M/1080P/Annabelle%20comes%20home%202019.mp4
 #EXTINF:-1 tvg-logo="https://diseccionmoon.com/wp-content/uploads/2023/08/1-MII.jpg" group-title="MOVIES ESTRENOS HD",LA MONJA 2
 https://www.mediafire.com/file_premium/krbtl07z07w0u2w/th3.nun.2.2023.hdrip.1080p.latino.mp4/file
 #EXTINF:-1 tvg-logo="https://revistahush.com/wp-content/uploads/2023/02/Haunted-Mansion-2.jpg" group-title="MOVIES ESTRENOS HD",MANSION EMBRUJADA 2023
