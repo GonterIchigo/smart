@@ -781,11 +781,20 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://187.188.232.236:1020/play/a00l/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://diseccionmoon.com/wp-content/uploads/2023/08/1-MII.jpg" group-title="MOVIES ESTRENOS HD",anabelle 3
-http://144.217.70.79/VODS-M/1080P/Annabelle%20comes%20home%202019.mp4
+#EXTINF:-1 tvg-logo="https://www.accioncine.es/wp-content/uploads/2023/09/Nadie-te-salvara.jpg" group-title="MOVIES ESTRENOS HD",NADIE TE SALVARA
+https://www.polimorhdd.online/stuff/nadie.mp4
+#EXTINF:-1 tvg-logo="https://tusbuenasnoticias-s3.cdn.net.ar/s3i233/2023/10/tusbuenasnoticias/images/31/78/317846_a145e1baa3192d8c3cdd2935452a293b5195a97bc3c5b1aa552b5acfbfa299af/xs.webp" group-title="MOVIES ESTRENOS HD",NOWHERE
+https://tvinnov.online/PELICULAS%202023/NOWHERE/Nowhere.2023.WEB-DL.1080p.Espa%c3%b1ol.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qZ8w8yAPsCStPUrfiuLianpGgAZ.jpg" group-title="MOVIES ESTRENOS HD",SANGRIENTOS DICISEIS
+https://www.polimorhdd.online/stuff/dulces.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Ballerina-671938551-large.jpg" group-title="MOVIES ESTRENOS HD",BALLERINA 2023
+http://tv.nousiptv.com:8080/movie/099782572/Victoria/1178223.mkv
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.-qGZ4AQNe1fQXH2m2BMT5AHaDA?pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",CURANDERO
+https://www.polimorhdd.online/stuff/curandero.mp4
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p25430190_v_h8_aa.jpg?w=960&h=540" group-title="MOVIES ESTRENOS HD",CASSANDRO
+http://208.88.245.81/nuevo/casandro.2023dual.mkv
 #EXTINF:-1 tvg-logo="https://diseccionmoon.com/wp-content/uploads/2023/08/1-MII.jpg" group-title="MOVIES ESTRENOS HD",LA MONJA 2
-https://www.mediafire.com/file_premium/krbtl07z07w0u2w/th3.nun.2.2023.hdrip.1080p.latino.mp4/file
+https://www.polimorhdd.online/stuff/monja.mp4
 #EXTINF:-1 tvg-logo="https://revistahush.com/wp-content/uploads/2023/02/Haunted-Mansion-2.jpg" group-title="MOVIES ESTRENOS HD",MANSION EMBRUJADA 2023
 https://www.polimorhdd.online/stuff/mansion.mp4
 #EXTINF:-1 tvg-logo="https://img.remediosdigitales.com/b44ccf/gran-turismo/1366_2000.jpeg" group-title="MOVIES ESTRENOS HD",GRAN TURISMO
