@@ -783,6 +783,8 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://187.188.232.236:1020/play/a00l/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",INDESTRUCTIBLES 4
+https://www.polimorhdd.online/stuff/indestructibles.mp4
 #EXTINF:-1 tvg-logo="https://www.accioncine.es/wp-content/uploads/2023/09/Nadie-te-salvara.jpg" group-title="MOVIES ESTRENOS HD",NADIE TE SALVARA
 https://www.polimorhdd.online/stuff/nadie.mp4
 #EXTINF:-1 tvg-logo="https://tusbuenasnoticias-s3.cdn.net.ar/s3i233/2023/10/tusbuenasnoticias/images/31/78/317846_a145e1baa3192d8c3cdd2935452a293b5195a97bc3c5b1aa552b5acfbfa299af/xs.webp" group-title="MOVIES ESTRENOS HD",NOWHERE
