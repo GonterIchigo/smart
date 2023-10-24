@@ -151,7 +151,7 @@ http://lobo-tv.live:8080/Daleplayperu52/tVFeXytHnZ/10410
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1.png" group-title="CULTURA",DISCOVERY CHANNEL OP2
 http://tv.proyectox.vip:8080/L0vjEGB3MC/GF8Nqw8gZ5/1067
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4dff12f1-efa0-4572-ada1-cf3e8cc13ede/dfv40t2-20a89fb2-7f4e-45d1-8037-046a348a90dd.png/v1/fill/w_1280,h_422/discovery_family__nexus_potential_logo__by_subwooferlabs_dfv40t2-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIyIiwicGF0aCI6IlwvZlwvNGRmZjEyZjEtZWZhMC00NTcyLWFkYTEtY2YzZThjYzEzZWRlXC9kZnY0MHQyLTIwYTg5ZmIyLTdmNGUtNDVkMS04MDM3LTA0NmEzNDhhOTBkZC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.i4J_wXHLaktlBFXd3QBpx03s8LVpAReGc3jDMi-qQQU" group-title="CULTURA",DISCOVERY FAMILY
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10878
+http://lobo-tv.live:8080/Daleplayperu52/tVFeXytHnZ/17191
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/tv1_sci-white.png" group-title="CULTURA",DISCOVERY SCIENCE  
 http://177.53.153.21:8001/play/a04q/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png" group-title="CULTURA",DISCOVERY H&H
@@ -783,8 +783,22 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://187.188.232.236:1020/play/a00l/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",INDESTRUCTIBLES 4
+#EXTINF:-1 tvg-logo="https://th.bing.com/th?id=OIF.c7sVTY%2ftYOgtIzJ1WBJP%2fA&pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",INDESTRUCTIBLES 4
 https://www.polimorhdd.online/stuff/indestructibles.mp4
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.cgLEeaoM1ZMG0_fheGXMiwHaEK?pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",URI: FUERZAS ESPECIALES  
+https://www.mediafire.com/file_premium/4huaxxsoc4fvg92/Uri.-.Fuerzas.Especiales.2019.1080P-Dual-Lat.mp4/file
+#EXTINF:-1 tvg-logo="https://dnm.nflximg.net/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABQfAOpEbKjqSg2BT58g8p-jMZbRaiC1w6YL6orVz6-XgPp4EEiinqop20vRYZQNRuLgpqBMgNpkTVX2A2HCDGQuV5PQL6H51OK-sNXB_QQqF_mVu7A95tDcQqilJJdkCFrPYUw.jpg?r=ef2" group-title="MOVIES ESTRENOS HD",JUEGO LIMPIO
+https://www.polimorhdd.online/stuff/juegolimpio.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8qeGjnDR4jA/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",LA HIJA DEL PRICIONERO
+http://208.88.245.85/nuevo/la.hija.del.prisionero.dual2023.mkv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/themoviedb.org/t/p/w780/iOYZbQA4wiMHoVSECQfZSvny6Nw.jpg" group-title="MOVIES ESTRENOS HD",A REALLY HAUNTED LOUD HOUSE
+http://208.88.245.85/nuevo/una.verdadera.familiaembrujada.dual2023.mkv
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.yMAFI4MWVqMLC1l_iMDLewAAAA?pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",PAW PATROL LA SUPER PELICULA
+http://208.88.245.85/nuevo/pawpatrol.lasuperpelicula.dual2023.mkv
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/afddc637-0042-4347-a23b-fa25920d380b/dgcbzow-079b5c73-49a8-45b0-9a02-d4ee6d7de621.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FmZGRjNjM3LTAwNDItNDM0Ny1hMjNiLWZhMjU5MjBkMzgwYlwvZGdjYnpvdy0wNzliNWM3My00OWE4LTQ1YjAtOWEwMi1kNGVlNmQ3ZGU2MjEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.W-kqJoWHzDM64sTC_e0hQWJbsvmwsfLi7vV98p5u7rk" group-title="MOVIES ESTRENOS HD",SCOOBY Y KRYPTO AL RESCATE
+http://208.88.245.85/nuevo/scooby.ykrypto.alrescate.dual2023.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rmDsMg9C85PxvCh6oYYVKdY2gKX.jpg" group-title="MOVIES ESTRENOS HD",INDESTRUCTIBLES 4
+http://208.88.245.85/nuevo/finnick.dual2023.mkv
 #EXTINF:-1 tvg-logo="https://www.accioncine.es/wp-content/uploads/2023/09/Nadie-te-salvara.jpg" group-title="MOVIES ESTRENOS HD",NADIE TE SALVARA
 https://www.polimorhdd.online/stuff/nadie.mp4
 #EXTINF:-1 tvg-logo="https://tusbuenasnoticias-s3.cdn.net.ar/s3i233/2023/10/tusbuenasnoticias/images/31/78/317846_a145e1baa3192d8c3cdd2935452a293b5195a97bc3c5b1aa552b5acfbfa299af/xs.webp" group-title="MOVIES ESTRENOS HD",NOWHERE
