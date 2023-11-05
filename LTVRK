@@ -141,7 +141,7 @@ http://138.59.177.34:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="CULTURA",HISTORY MX
 http://186.67.226.14:8088/play/a038
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="CULTURA",HISTORY PREMIUM 
-http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62789
+http://45.228.232.219:16000/play/a0md/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="CULTURA",H2
 http://181.189.243.217:8000/play/a0r7/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="CULTURA",H2 OP2
