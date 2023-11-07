@@ -334,7 +334,7 @@ http://186.67.226.14:8088/play/a03q
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.d0e69673d5e442ae5e78911cfb415d18?rik=Ikf8YN%2bcXbY%2fVg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2faxn-logo-vector-png-axn-logo-eps-vector-download-axn-450.png&ehk=nB3WTxrU%2fPrF572yLEuPgBxEOB3D6SR3Oi4RivKIVk4%3d&risl=&pid=ImgRaw&r=0" group-title="ENTRETENIMIENTO",AXN OP 2
 http://181.189.243.217:8000/play/a0pp/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-0-1536x1536.png" group-title="ENTRETENIMIENTO",PARAMOUNT
-http://181.189.243.217:8000/play/a0t9/index.m3u8
+http://147.135.124.6:26503/play/a04k/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-0-1536x1536.png" group-title="ENTRETENIMIENTO",PARAMOUNT OP 2
 http://186.67.226.14:8088/play/a03u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" group-title="ENTRETENIMIENTO",CINEMAX
