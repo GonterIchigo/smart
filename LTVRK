@@ -717,8 +717,22 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://187.188.232.236:1020/play/a00l/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD", Conjuro 3
-http://144.217.70.79/VODS-M/1080P/The%20Conjuring%20The%20Devil%20Made%20Me%20Do%20It%202021.mkv
+#EXTINF:-1 tvg-logo="https://th.bing.com/th?id=OIF.1OABKH%2f3tf2Mjq4ab4QGDA&pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",FIVE NIGHTS AT FREDDYS
+https://ia601808.us.archive.org/29/items/01_20231028_20231028_2355/01.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/09/saw-x-estreno-en-streaming.png" group-title="MOVIES ESTRENOS HD",SAW X
+https://ia801804.us.archive.org/33/items/01_20231030_20231030/01.mp4
+#EXTINF:-1 tvg-logo="https://www.clarin.com/img/2023/07/25/OFP7ZKqhB_720x0__1.jpg" group-title="MOVIES ESTRENOS HD",EL EXORCISTA: CREYENTES
+http://208.88.245.85/nuevo/el.exorcista.creyentes.dual2023.mkv
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7erEaIQSCKc/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",CASERIA EN VENECIA
+http://208.88.245.85/nuevo/misterio.en.venecia.dual2023.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sr5zrw8zQa9mOr48VcCTu9XPht8.jpg" group-title="MOVIES ESTRENOS HD",CRIA SINIESTRA
+https://ia600505.us.archive.org/27/items/01_20231029_20231029_2237/01.mp4
+#EXTINF:-1 tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2023/10/The-Devil-on-Trial-Netflix-Review.jpg" group-title="MOVIES ESTRENOS HD",JUICIO AL DIABLO
+http://208.88.245.85/nuevo/juicio.al.diablo.dual.2023.mkv
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIF.STHa6rvfMJql5V4ErM8TYw?pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",CUANDO ACECHA LA MALDAD
+http://cineplay.vip:8080/movie/fcorzo23/UqZqrEkQcY/250118.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/c883bd2f72c3d0b2ac6da6628bb472d8f20ac90ac3a4ff348c95cbdd8c234258._UY500_UX667_RI_TTW_.jpg" group-title="MOVIES ESTRENOS HD",SOUTH PARK: ENTARANDO AL PANDERVERSE
+http://cineplay.vip:8080/movie/fcorzo23/UqZqrEkQcY/250118.mkv
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?id=OIF.c7sVTY%2ftYOgtIzJ1WBJP%2fA&pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",INDESTRUCTIBLES 4
 https://www.polimorhdd.online/stuff/indestructibles.mp4
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.cgLEeaoM1ZMG0_fheGXMiwHaEK?pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",URI: FUERZAS ESPECIALES  
