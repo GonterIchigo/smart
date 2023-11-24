@@ -717,7 +717,27 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://187.188.232.236:1020/play/a00l/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th?id=OIF.1OABKH%2f3tf2Mjq4ab4QGDA&pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",FIVE NIGHTS AT FREDDYS
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KzmMXT0sHWo/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",TROLLS 3
+https://www.polimor.club/movies/trols3.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/aff6b7764eb7592a4a54e1021b75e42660bb30d3ee4655b563dd4962743064cb.jpg" group-title="MOVIES ESTRENOS HD",LA PUERTA MAGICA
+https://www.polimor.club/movies/puerta.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pUM0A60ffFk/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",UNDERGROUND
+https://www.polimorhdd.online/stuff/souterrain.mp4
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p23903924_v_h10_aa.jpg?w=1280&h=720" group-title="MOVIES ESTRENOS HD",EL ACESINO
+https://www.polimorhdd.online/stuff/killer.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KMClMRWUMto/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",ACENSO AL LIMITE
+https://www.polimor.club/movies/summersub.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/10/sly.jpg?width=768&aspect_ratio=16:9&format=nowebp" group-title="MOVIES ESTRENOS HD",SLY
+http://208.88.245.85/nuevo/sly.dual.2023.mkv
+#EXTINF:-1 tvg-logo="https://mexico.quadratin.com.mx/www/wp-content/uploads/2023/07/image001.jpg" group-title="MOVIES ESTRENOS HD",WELCOME AL NORTE
+https://www.polimor.club/movies/welcome.mp4
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsYZ4DJ_CEnKA7AT7COv9euLuKMsJq_UfTJTLkpf7W2bhGO6-b1IANnwJ5Wbxpa8xTkOmIaD5-KT15xaPL-oRx78sHoLCqI1SHysoAKxG-96-Qjx4FpjKdc7QQ_ZWZ5eUkUyI0LaMn9S23WQsbxCN9CKt_y1_Ly3Y1-Zu0mZdvs_Jj7ZeTZoz1EVenOHw/s2048/papas%20a%20la%20antigua%20netflix.jpg" group-title="MOVIES ESTRENOS HD",PAPÁS A LA ANTIGUA
+https://www.polimorhdd.online/stuff/papas.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI4ZWMzNjYtYWJmNy00NmYyLWFhNTktOWRiMDcxNDY4Yzg1XkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_QL75_UX500_CR0,13,500,281_.jpg" group-title="MOVIES ESTRENOS HD",EL CREADOR
+https://www.polimorhdd.online/stuff/creator.mp4
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/17f26397-fad3-4f1c-9503-a7924e05bb2d/dgc30j8-080f747d-4ca2-4500-8ce4-25c540f66d84.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE3ZjI2Mzk3LWZhZDMtNGYxYy05NTAzLWE3OTI0ZTA1YmIyZFwvZGdjMzBqOC0wODBmNzQ3ZC00Y2EyLTQ1MDAtOGNlNC0yNWM1NDBmNjZkODQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SoYMYpqZEb_LLgQrCdKa2HHqkTWvsYYD9SJ19xLOlSU" group-title="MOVIES ESTRENOS HD",LEGO AVENGERS: CODIGO ROJO
+http://208.88.245.85/nuevo/lego.avengers.codigo.rojo.dual2023.mkv
+#EXTINF:-1 tvg-logo="https://movies.universalpictures.com/media/06-fnf-dm-mobile-banner-1080x745-n-kr-f01-101923-653b04bb19230-1.jpg" group-title="MOVIES ESTRENOS HD",FIVE NIGHTS AT FREDDYS
 http://208.88.245.85/nuevo/fivenight.at.freddys.dual2023.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/09/saw-x-estreno-en-streaming.png" group-title="MOVIES ESTRENOS HD",SAW X
 http://208.88.245.85/nuevo/saw.x.dual.2023.mkv
