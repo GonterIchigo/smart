@@ -120,9 +120,9 @@ http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/257
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/15/RCNnovelas2019.png" group-title="NOVELAS",RCN NOVELAS
 http://167.250.222.35:16000/play/a059/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.my.rio2c.com/img/organizations/b6dad2d2-e711-4157-b64a-b22f0a07c791_thumbnail.png?v=20191202194516" group-title="NOVELAS",CARACOL
-http://181.78.12.119:16123/play/ch58/index.m3u8
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.my.rio2c.com/img/organizations/b6dad2d2-e711-4157-b64a-b22f0a07c791_thumbnail.png?v=20191202194516" group-title="NOVELAS",CARACOL OP2
-http://177.234.242.150:50032/play/a0gf/index.m3u8
+http://38.41.8.1:8000/play/a06i
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="NOVELAS",TELETICA
 http://tv.proyectox.vip:8080/L0vjEGB3MC/GF8Nqw8gZ5/153883
 #EXTINF:-1 tvg-logo="https://media.telebajocero.com/adjuntos/225/imagenes/000/405/0000405645.jpg" group-title="NOVELAS",TELEFE
