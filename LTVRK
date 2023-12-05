@@ -294,7 +294,7 @@ http://181.189.243.217:8000/play/a0o1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="ENTRETENIMIENTO",SONY CHANNEL
 http://45.228.232.219:16000/play/a0nd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="ENTRETENIMIENTO",SONY CHANNEL OP2
-hhttp://190.149.66.90:4000/play/a03g/index.m3u8
+http://190.149.66.90:4000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="ENTRETENIMIENTO",UNIVERSAL HD
 http://138.59.177.34:8000/play/a06m/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="ENTRETENIMIENTO",UNIVERSAL HD OP2
