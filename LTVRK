@@ -31,7 +31,7 @@ http://167.250.222.35:16000/play/a067/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" group-title="MEXICO",AZ CINEMA 
 http://190.187.247.206:17070/play/a09l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 HD
-https://pe.shortgod.com/awp20wpsa/tv1.php?id=14.m3u8
+http://23.148.145.82:25461/televall/R1WyjpMhlp/10
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 HD OP 2 
 http://tv.proyectox.vip:8080/L0vjEGB3MC/GF8Nqw8gZ5/1883
 #EXTINF:-1 tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="MEXICO",NU9VE
@@ -39,7 +39,7 @@ http://tv.proyectox.vip:8080/L0vjEGB3MC/GF8Nqw8gZ5/26964
 #EXTINF:-1 tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="MEXICO",NU9VE HD 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/26836.m3u8
 #EXTINF:-1 tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="MEXICO",NU9VE HD OP 2
-https://ultrapremium.cloud:8443/56987072497/12333/59498
+http://23.148.145.82:25461/televall/R1WyjpMhlp/360
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Galavisi%C3%B3n_logo2012.png" group-title="MEXICO",GALAVISION
 http://167.114.156.136:25461/INFINITV/ZX89NM22/174
 #EXTINF:-1 tvg-logo="https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png" group-title="MEXICO",UNIVISION MIAMI
@@ -49,9 +49,9 @@ http://tv.proyectox.vip:8080/L0vjEGB3MC/GF8Nqw8gZ5/157014
 #EXTINF:-1 tvg-logo="https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png" group-title="MEXICO",UNIVISION
 http://138.59.177.34:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" group-title="MEXICO",UNIMAS
-https://ultrapremium.cloud:8443/56987072497/12333/22978
+http://23.148.145.82:25461/televall/R1WyjpMhlp/453
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/f0/af/98382f8a420a8b369bb4e7e1ff11/umas-1-spot-wht.png" group-title="MEXICO",UNIMAS LA
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27110
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/286
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png" group-title="MEXICO",A PLUS
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/76427
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" group-title="MEXICO",ONCE HD
@@ -96,7 +96,7 @@ http://204.199.137.51:5046/play/a00r
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="NOVELAS",PASIONES OP 3
 http://190.149.66.90:4000/play/a053/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s400/rojo.png" group-title="NOVELAS",TLNOVELAS 
-http://177.93.45.155:6143/play/a35y/index.m3u8
+http://23.148.145.82:25461/televall/R1WyjpMhlp/98
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/tlnovelas_m.png" group-title="NOVELAS",UNIVISION TLNOVELAS
 https://ultrapremium.cloud:8443/56987072497/12333/59602
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png" group-title="NOVELAS",GLITZ
@@ -717,6 +717,8 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://187.188.232.236:1020/play/a00l/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",LEO
+https://vod.tuxchannel.mx/peliculas/720/leo%202023.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KzmMXT0sHWo/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",TROLLS 3
 https://www.polimor.club/movies/trols3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/aff6b7764eb7592a4a54e1021b75e42660bb30d3ee4655b563dd4962743064cb.jpg" group-title="MOVIES ESTRENOS HD",LA PUERTA MAGICA
