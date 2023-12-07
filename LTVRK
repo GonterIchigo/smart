@@ -717,8 +717,26 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://187.188.232.236:1020/play/a00l/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",LEO
+#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/11/navidad-candy-cane-lane-3218072.jpg?tf=1200x" group-title="MOVIES ESTRENOS HD",LA CALLE DE LA NAVIDAD
+https://www.mediafire.com/file_premium/xjiop4m8lt55lug/La.Calle.De.La.Navidad..2023.1080P-Dual-Lat.mp4/file
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT52RSKEUHXO84yS4NRj9Olcr9JLrlwb-w0EPm02e6unIoFUhsOXGZS_lt_YCDuuFNVUTI&usqp=CAU" group-title="MOVIES ESTRENOS HD",LEO
 http://vod.tuxchannel.mx/peliculas/720/leo%202023.mkv
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.khOE49QlcxMfWS-vChWYTwHaEK?rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",LOS TIPOS MALOS: UNA NAVIDAD MUY MALA
+http://vod.tuxchannel.mx/peliculas/720/the%20bad%20guys%20a%20very%20bad%20holiday%202023.mkv
+#EXTINF:-1 tvg-logo="https://www.justwatch.com/images/backdrop/301676656/s640/prancer-un-cuento-de-navidad/prancer-un-cuento-de-navidad" group-title="MOVIES ESTRENOS HD",PRANCER: UN CUENTO DE NAVIDAD
+https://www.polimor.online/stuff/prancer.mp4
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/videos/video:mcp:4484664/5860c2e12a6d94a7422ed2f51e9dafe6" group-title="MOVIES ESTRENOS HD",EL SABOR DE LA NAVIDAD
+http://208.88.245.85/nuevo/el.sabor.dla.navidad.latino2023.mkv
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/TheNaughtyNine/theme/4321846/942c00ed7568de0d28e0c408cd8b654b/480x270-Q95_942c00ed7568de0d28e0c408cd8b654b.jpg" group-title="MOVIES ESTRENOS HD",LOS NUEVE TRAVIESOS
+http://vod.tuxchannel.mx/peliculas/720/the%20naughty%20nine%202023.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/7ea50ab8a25903663e117f5ab668c3af632d0d034baa8c258a1db746b58d13bc._UY500_UX667_RI_TTW_.jpg" group-title="MOVIES ESTRENOS HD",LOS ULTIMOS SUPERVIVIENTES
+https://www.polimor.club/movies/survivors.mp4
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.sK8Kv5If7eAgbJvd6ASIwwHaEL?rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",GOLPE A WALL STREET
+https://www.polimor.club/movies/dump.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/r91RkmIGadbpsIIVgGh1O3asUp0.jpg" group-title="MOVIES ESTRENOS HD",EL ARTE DE MATAR
+https://www.polimor.online/stuff/arte.mp4
+#EXTINF:-1 tvg-logo="https://www.novacinemas.cr/wp-content/uploads/2023/10/Los-asesinos-de-la-luna-de-las-flores.jpg" group-title="MOVIES ESTRENOS HD",LOS ASESINOS DE LA LUNA
+https://www.polimor.club/movies/luna.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KzmMXT0sHWo/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",TROLLS 3
 https://www.polimor.club/movies/trols3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/aff6b7764eb7592a4a54e1021b75e42660bb30d3ee4655b563dd4962743064cb.jpg" group-title="MOVIES ESTRENOS HD",LA PUERTA MAGICA
