@@ -717,6 +717,26 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://187.188.232.236:1020/play/a00l/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.CLxYZ_cERchDx3x0LwEN5gHaEK?rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",CHICKEN RUN: EL AMANECER DE LOS NUGGETS
+http://vod.tuxchannel.mx/peliculas/720/chicken%20run%20dawn%20of%20the%20nugget%202023.mkv
+#EXTINF:-1 tvg-logo="https://www.apple.com/mx/tv-pr/shows-and-films/t/the-family-plan/images/show-home-graphic-header/key-art-01/4x1/Apple_TV_The_Family_Plan_key_art_graphic_header_4_1_show_home.jpg.medium.jpg" group-title="MOVIES ESTRENOS HD",PLAN FAMILIAR
+https://alianzajuridicainteramericana.com/stuff/planfamiliar.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.lacosacine.com/wp-content/uploads/2023/04/Los-Juegos-del-Hambre.jpg?fit=1200%2C630&ssl=1" group-title="MOVIES ESTRENOS HD",LOS JUEGOS DEL HAMBRE: BALADA DE LOS PAJAROS CANTORES Y SERPIENTES
+https://www.mediafire.com/file_premium/qmbckitoz86elg2/th3.hung3r.g4m3s.th3.b4ll4d.0f.s0nb1rds.4nd.sn4k3s.2023.hdrip.1080p.latino.mp4/file
+#EXTINF:-1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/83909B577B380D61930A09C3D56EFEC57396DD1633F893DE80D76BD8D0A38B6F/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="MOVIES ESTRENOS HD",EL DIARIO DE GREG EN NAVIDAD: ATRAPADOS EN LA NIEVE
+http://vod.tuxchannel.mx/peliculas/720/diary%20of%20a%20wimpy%20kid%20christmas%20cabin%20fever%202023.mkv
+#EXTINF:-1 tvg-logo="https://www.lascosasquenoshacenfelices.com/wp-content/uploads/2023/12/be3be3a8-e3fc-4124-96b5-8d6d68c75e7d._UR19201080_SX1440_FMjpg_.jpeg" group-title="MOVIES ESTRENOS HD",FELIZ MINI-BAT NAVIDAD
+http://vod.tuxchannel.mx/peliculas/720/merry%20little%20batman%202023.mkv
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vyyg5b2-jPI/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",VIAJE TODO ROBADO
+https://www.polimorhdd.online/stuff/viaje.mp4
+#EXTINF:-1 tvg-logo="https://occ-0-444-999.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABYwKNJSjknx5GyE7x4DL8W9EeW4kteSl3MvH0PppnO_fBRUnpU3Dp_zKVEzTLrIMNyOco_LHVhIgNxxpBjrh5YSnJqc1x2JOwO0xfDAz-ND7CIdEBJdYMasZP1qmuP7kz_Mr5LFrmPecQ1ihY-GLrhQMliXyL-ZabnsWOi0y7F_QV6x8tLzlkrhGOWkKbWZMmct49eSp0ruanmRHSVzNhJg03OCIifsEQexf3bWzjuD9DYYDCuDALvfyhMQfP8Jux8JxhwE4atzpDgRaEknBOTOViVz6cekpb8UZnDf_deHeDWSwde1UV3N5Qn5x.jpg?r=dd4" group-title="MOVIES ESTRENOS HD",MEJOR NAVIDAD IMPOSIBLE
+http://208.88.245.85/nuevo/mejor.navidad.imposible.dual2023.mkv
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/G1vnNp7I73I/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",EL SEXTO BUS
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/diciembre/Ver%20El%20Sexto%20Bus%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cYhRjwTgi50/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",12 HORAS PARA EL FIN DEL MUNDO
+https://www.polimorhdd.online/stuff/mira.mp4
+#EXTINF:-1 tvg-logo="https://cdn.gamma.app/zrxugjlzcrn367v/3d282fe267ca4cdf8fd9fd15a49aa120/original/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg" group-title="MOVIES ESTRENOS HD",THE MARVELS
+http://vod.tuxchannel.mx/peliculas/720/the%20marvels%202023.mkv
 #EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/11/navidad-candy-cane-lane-3218072.jpg?tf=1200x" group-title="MOVIES ESTRENOS HD",LA CALLE DE LA NAVIDAD
 https://www.mediafire.com/file_premium/xjiop4m8lt55lug/La.Calle.De.La.Navidad..2023.1080P-Dual-Lat.mp4/file
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT52RSKEUHXO84yS4NRj9Olcr9JLrlwb-w0EPm02e6unIoFUhsOXGZS_lt_YCDuuFNVUTI&usqp=CAU" group-title="MOVIES ESTRENOS HD",LEO
