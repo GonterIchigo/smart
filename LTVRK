@@ -96,7 +96,7 @@ http://204.199.137.51:5046/play/a00r
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="NOVELAS",PASIONES OP 3
 http://190.149.66.90:4000/play/a053/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s400/rojo.png" group-title="NOVELAS",TLNOVELAS 
-http://23.148.145.82:25461/televall/R1WyjpMhlp/98
+http://187.102.208.108:50001/play/a03u/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/tlnovelas_m.png" group-title="NOVELAS",UNIVISION TLNOVELAS
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/40
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png" group-title="NOVELAS",GLITZ
