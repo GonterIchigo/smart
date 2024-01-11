@@ -719,20 +719,14 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://187.188.232.236:1020/play/a00l/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",PATOS
-http://208.88.245.85/nuevo/patos.dual.2023.mkv
-EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",PATOS 2
-http://vod.tuxchannel.mx/peliculas/720/patos%202023.mkv
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",AQUAMAN 2
-http://208.88.245.85/nuevo/aquaman.y.el.reyno.perdido.dual2023.mkv
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",AQUAMAN 2
-http://vod.tuxchannel.mx/peliculas/720/aquaman%20y%20el%20reyno%20perdido%202023.mkv
 #EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD", NAPOLEON
 http://vod.tuxchannel.mx/peliculas/720/napoleon%202023.mkv
 #EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",MUCHACHOS
 http://208.88.245.85/nuevo/muchachos.latino.2023.mkv
 #EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",LA SOCIEDAD DIA DELA NIEVE
 http://208.88.245.85/nuevo/la.sociedad.dla.nieve.latino.2024.mkv
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",TAYLOR SWIFT THE ERAS TOUR
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset/peliculas/diciembre/Ver%20TAYLOR%20SWIFT%20-%20THE%20ERAS%20TOUR%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 tvg-logo="https://prod.assets.earlygamecdn.com/images/Rebel-Moon-Hub.jpg?transform=banner2x_webp" group-title="MOVIES ESTRENOS HD",REBEL MOON PARTE UNO
 http://zonamovie.live:8080/movie/Herberthlopez/ODHS5645/698217.mkv
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.ERmHnd6ydwwASaconoDQngHaDO?rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",MISS SHAMPOO
