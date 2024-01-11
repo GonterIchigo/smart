@@ -721,8 +721,12 @@ http://187.188.232.236:1020/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",PATOS
 http://208.88.245.85/nuevo/patos.dual.2023.mkv
+EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",PATOS 2
+http://vod.tuxchannel.mx/peliculas/720/patos%202023.mkv
 #EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",AQUAMAN 2
 http://208.88.245.85/nuevo/aquaman.y.el.reyno.perdido.dual2023.mkv
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",AQUAMAN 2
+http://vod.tuxchannel.mx/peliculas/720/aquaman%20y%20el%20reyno%20perdido%202023.mkv
 #EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD", NAPOLEON
 http://vod.tuxchannel.mx/peliculas/720/napoleon%202023.mkv
 #EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",MUCHACHOS
