@@ -719,6 +719,16 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/33
 
+#EXTINF:-1 tvg-logo="https://www.diariodevenusville.com/wp-content/uploads/2024/01/BEEKEEPER-EL-PROTECTOR-caratula.jpg" group-title="MOVIES ESTRENOS HD",BEEKEPER EL PROTECTOR
+https://www.polimorhdd.online/stuff/beek.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU2iEV3.jpeg" group-title="MOVIES ESTRENOS HD",UPGRADE PRIMERA CLASE
+https://www.polimorhdd.online/stuff/ascenso.mp4
+#EXTINF:-1 tvg-logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/interior/filme_radical_vbig.jpg" group-title="MOVIES ESTRENOS HD",RADICAL
+https://alianzajuridicainteramericana.com/stuff/radical.mp4
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.a7ytUrHmEf299U1dNmCiIQHaE7?rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",CON TODOS MENOS CONMIGO
+https://www.polimorhdd.online/stuff/todos.mp4
+#EXTINF:-1 tvg-logo="https://media.zenfs.com/en/tomatazos_56/439de8b19c591d6441a42491c59dbce59" group-title="MOVIES ESTRENOS HD",SEÑORA INFLUENCER
+https://www.polimorhdd.online/stuff/senora.mp4
 #EXTINF:-1 tvg-logo="ttps://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/89E131E8986BB4A7EDC4DE1C905DD11C1594CC8E4A916FDC1C7F544EA2B8560F/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="MOVIES ESTRENOS HD",WISH: EL PODER DE LOS DESEOS
 https://www.polimorhdd.online/stuff/wish.mp4
 #EXTINF:-1 tvg-logo="https://geekpopnews.com.br/wp-content/uploads/2023/04/aquaman-2-.jpg" group-title="MOVIES ESTRENOS HD",AQUAMAN Y EL REINO PERDIDO
