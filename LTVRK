@@ -535,9 +535,9 @@ http://131.161.53.2:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2
 http://190.90.154.73:8080/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 OP 2
-http://190.121.153.89:8000/play/a02s/index.m3u8
+http://138.219.58.234:8112/play/214
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3
-http://131.161.53.2:8000/play/a071/index.m3u8
+http://131.161.53.2:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 OP 2
 http://190.149.66.90:4000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.1522528359_ESPN4_Blanco.png.94baa236c27d1b47d48584df19f07993.png" group-title="DEPORTES",ESPN 4
@@ -575,7 +575,7 @@ http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/176
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES",GOLTV
 http://190.90.154.73:8080/play/a08t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES",GOLTV 2
-http://181.78.105.146:8800/play/a08l
+http://181.78.105.146:2000/play/a094/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd.png.2de3e07868016506434e4a6b957ca56e.png" group-title="DEPORTES",TNT SPORTS
 http://138.219.58.234:8112/play/233
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd.png.2de3e07868016506434e4a6b957ca56e.png" group-title="DEPORTES",TNT SPORTS HD
