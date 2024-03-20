@@ -719,6 +719,30 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/33
 
+#EXTINF:-1 tvg-logo="https://grandeslanzamientos.com.co/wp-content/uploads/2024/01/facebook-10-1.jpg" group-title="MOVIES ESTRENOS HD",SOBREVIVIENTES DESPUES DEL TERREMOTO
+http://vod.tuxchannel.mx/peliculas/720/concrete%20utopia%202023.mkv
+#EXTINF:-1 tvg-logo="https://www.madamewebmovie.com.au/images/share.jpg" group-title="MOVIES ESTRENOS HD",MADAME WEB
+https://www.polimorhdd.online/stuff/web.mp4
+#EXTINF:-1 tvg-logo="https://www.moobys.es/wp-content/uploads/2024/01/08145755/Simon-2450x700-1.gif" group-title="MOVIES ESTRENOS HD",SIMÓN
+http://vod.tuxchannel.mx/peliculas/720/simon%202023.mkv
+#EXTINF:-1 tvg-logo="https://www.apple.com/tv-pr/shows-and-films/a/argylle/images/show-home-graphic-header/key-art-01/16x9/Apple_TV_Argylle_key_art_graphic_header_16_9_show_home.jpg.large_2x.jpg" group-title="MOVIES ESTRENOS HD",ARGYLL
+https://www.polimor.club/movies/argyll.mp4
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.2be9776a5fc463746bddee9624c547b1?rik=cY%2fYp8RT8%2b4iUw&riu=http%3a%2f%2fwww.magpictures.com%2fredrighthand%2fimages%2fposter-fb.jpg&ehk=xoB95sx%2fPS8Ji8uwyzAA0MRiwvRpaK%2fl3ZvliTtvU7Q%3d&risl=&pid=ImgRaw&r=0" group-title="MOVIES ESTRENOS HD",RED RIGHT HAND
+https://www.polimorhdd.online/stuff/red.mp4
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.lXljOPKj8rmkrnSfrqGNdgHaJQ?rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",ANATOMIA DE UNA CAIDA
+https://alianzajuridicainteramericana.com/stuff/caida.mp4
+#EXTINF:-1 tvg-logo="https://premierescene.net/wp-content/uploads/2019/06/Ferrari-Race-to-Immortality.jpg" group-title="MOVIES ESTRENOS HD",FERRARI
+http://vod.tuxchannel.mx/peliculas/720/ferrari%202023.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3Kzc6V4MWs3RXCmE5DhAYnfWL8F.jpg" group-title="MOVIES ESTRENOS HD",MEGAMENTE CONTRA EL SINDICATO DEL MAL
+http://vod.tuxchannel.mx/peliculas/720/megamind%20vs%20the%20doom%20syndicate%202024.mkv
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/n1FfDZqiui8/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",LOS MENOS PRECIADOS
+http://208.88.245.81/nuevo/los.menospreciados.dual.2024.mkv
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GFGiJLkaEAAvQqG.jpg" group-title="MOVIES ESTRENOS HD",POBRES CRIATURAS
+https://alianzajuridicainteramericana.com/stuff/pobres.mp4
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/programs/m/a/m/mama-o-papa-824622_SPA-73.jpg" group-title="MOVIES ESTRENOS HD",PAPÁ O MAMÁ
+https://www.polimor.club/movies/papaomama.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/acpFrSmVLnTNAIuHxnZArkC3dwU.jpg?language=pt-BR" group-title="MOVIES ESTRENOS HD",EL APRENDIZ DE TIGRE
+http://vod.tuxchannel.mx/peliculas/720/the%20tigers%20apprentice%202024.mkv
 #EXTINF:-1 tvg-logo="https://www.diariodevenusville.com/wp-content/uploads/2024/01/BEEKEEPER-EL-PROTECTOR-caratula.jpg" group-title="MOVIES ESTRENOS HD",BEEKEPER EL PROTECTOR
 https://www.polimorhdd.online/stuff/beek.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MU2iEV3.jpeg" group-title="MOVIES ESTRENOS HD",UPGRADE PRIMERA CLASE
