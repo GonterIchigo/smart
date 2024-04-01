@@ -135,7 +135,7 @@ http://138.59.177.34:8000/play/a074/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png" group-title="CULTURA",NAT GEO OP 2 
 http://138.219.58.234:8112/play/027
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/lovenatureca/logos/3p-logo._CB436453497_.png" group-title="CULTURA",LOVE NATURE
-http://190.60.33.167:8004/play/a00j/index.m3u8
+http://177.128.115.21:8080/live/Binet/6UkGawEA4z/163.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_02/large.1129293984_1200px-2018_Animal_Planet_logo.svg-copia.png.b691b46afeb2599db5e727a8bbd642a4.png" group-title="CULTURA",ANIMAL PLANET
 http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_02/large.1129293984_1200px-2018_Animal_Planet_logo.svg-copia.png.b691b46afeb2599db5e727a8bbd642a4.png" group-title="CULTURA",ANIMAL PLANET OP2
