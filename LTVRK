@@ -719,10 +719,26 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/33
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6amIq_mP4xM/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",FIGHTER: DRAGONES DEL AIRE
+http://vod.tuxchannel.mx/peliculas/720/fighter%202024.mkv
+#EXTINF:-1 tvg-logo="https://www.cinedot.com.mx/CDN/media/entity/get/FilmBackdrop/h-HO00000508?width=1024&referenceScheme=HeadOffice&allowPlaceHolder=true&fallbackMediaType=FilmTitleGraphic" group-title="MOVIES ESTRENOS HD",JUGUETE DIABOLICO
+https://www.polimorhdd.online/stuff/juguete.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YF4J9K7UwLs/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",ATRAPADOS EN LO PROFUNDO
+https://www.polimorhdd.online/stuff/profundo.mp4
+#EXTINF:-1 tvg-logo="https://cdn.unotv.com/images/2023/07/one-love-123650-1024x576.jpg" group-title="MOVIES ESTRENOS HD",BOB MARLEY
+https://www.polimorhdd.online/stuff/marley.mp4
+#EXTINF:-1 tvg-logo="https://www.movienewsletters.net/media/slider/1200x444/303558.jpg" group-title="MOVIES ESTRENOS HD",EL PEOR EQUIPO DEL MUNDO
+https://www.polimorhdd.online/stuff/gol.mp4
+#EXTINF:-1 tvg-logo="https://www.findelahistoria.com/web/wp-content/uploads/2022/10/Unicorn-Wars-pelicula-2022-Alberto-Vazquez-min-1.jpg" group-title="MOVIES ESTRENOS HD",UNICORN WARS
+http://vod.tuxchannel.mx/peliculas/720/unicorn%20wars%202022.mkv
+#EXTINF:-1 tvg-logo="https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABXhG6lGmA6XGSdLZrG45YESy0R2Y3GYZAs6VwIH-B6whaovJQqg9j1ovXB_wMNEm9nwpbXPzSRp-aygNROzTlTe8MCsbv5T1tYhB.jpg?r=87f" group-title="MOVIES ESTRENOS HD",LOS CAZAGRANDES LA PELICULA
+http://vod.tuxchannel.mx/peliculas/720/the%20casagrandes%20movie%202024.mkv
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/sdi/2024/02/06/el-color-purpura-todo-lo-que-debes-saber-de-la-cinta-sinopsis-trailer-fecha-de-estreno-y-elenco-1223279-1.jpg" group-title="MOVIES ESTRENOS HD",EL COLOR PURPURA
+http://vod.tuxchannel.mx/peliculas/720/the%20color%20purple%202023.mkv
 #EXTINF:-1 tvg-logo="https://grandeslanzamientos.com.co/wp-content/uploads/2024/01/facebook-10-1.jpg" group-title="MOVIES ESTRENOS HD",SOBREVIVIENTES DESPUES DEL TERREMOTO
 http://vod.tuxchannel.mx/peliculas/720/concrete%20utopia%202023.mkv
 #EXTINF:-1 tvg-logo="https://www.madamewebmovie.com.au/images/share.jpg" group-title="MOVIES ESTRENOS HD",MADAME WEB
-https://www.polimorhdd.online/stuff/web.mp4
+http://208.88.245.85/hd/Madame.Web.2024.mkv
 #EXTINF:-1 tvg-logo="https://www.moobys.es/wp-content/uploads/2024/01/08145755/Simon-2450x700-1.gif" group-title="MOVIES ESTRENOS HD",SIMÓN
 http://vod.tuxchannel.mx/peliculas/720/simon%202023.mkv
 #EXTINF:-1 tvg-logo="https://www.apple.com/tv-pr/shows-and-films/a/argylle/images/show-home-graphic-header/key-art-01/16x9/Apple_TV_Argylle_key_art_graphic_header_16_9_show_home.jpg.large_2x.jpg" group-title="MOVIES ESTRENOS HD",ARGYLL
