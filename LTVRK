@@ -110,7 +110,7 @@ http://45.166.92.22:58001/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="NOVELAS",TELEMUNDO PUERTO RICO  
 http://45.166.92.22:58001/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt-novelas@3x.png" group-title="NOVELAS",TNT NOVELAS
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/39
+http://201.222.44.220:4227/play/a05k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1920px-LogoNTyLR.svg.png" group-title="NOVELAS",RCN  
 http://168.227.22.18:1935/live/mobile-072/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1920px-LogoNTyLR.svg.png" group-title="NOVELAS",RCN OP2
