@@ -280,7 +280,7 @@ http://190.109.22.233:9991/play/a068/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL OP2
 http://6oclock.xyz/Pumpkin1/Pumpkin1/27982
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="ENTRETENIMIENTO",STAR CHANNEL HD
-http://190.149.66.90:4000/play/a03e/index.m3u8
+http://201.222.44.220:4227/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="ENTRETENIMIENTO",STAR CHANNEL HD OP2
 http://138.59.177.34:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/587463.png" group-title="ENTRETENIMIENTO",FX HD
