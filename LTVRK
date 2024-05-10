@@ -719,6 +719,26 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/33
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",PROFECION PELIGRO
+https://www.polimor.club/movies/fall.mp4
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",ABIGAIL
+https://www.polimor.club/movies/abigail.mp4
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",GODZILLA MINUS ONE
+https://www.ciudadmaderas.club/stuff/godzilla.mp4
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",EN LLAMAS
+https://www.ciudadmaderas.club/stuff/fire.mp4
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",INMACULADA
+https://www.ciudadmaderas.club/stuff/inmaculada.mp4
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",MONKEY MAN
+https://www.ciudadmaderas.club/stuff/monkey.mp4
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",CONTACTO CON LA MUERTE
+https://www.ciudadmaderas.club/stuff/baghead.mp4
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",SAYEN LA CAZADORA
+http://vod.tuxchannel.mx/peliculas/720/sayen%20the%20huntress%202024.mkv
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",MIRACULOUS LADYBUG SHADYBUG Y CLAW NOIR
+http://vod.tuxchannel.mx/peliculas/720/miraculous%20world%20paris%20tales%20of%20shadybug%20and%20claw%20noir%202023.mkv
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",ARTHUR  
+https://www.ciudadmaderas.club/stuff/arthur.mp4
 #EXTINF:-1 tvg-logo="https://www.nacionflix.com/__export/1682360303843/sites/debate/img/2023/04/24/godzilla-x-kong-the-new-empire_1.jpg_242310155.jpg" group-title="MOVIES ESTRENOS HD",GODZILLA Y KONG: EL NUEVO IMPERIO
 https://alianzajuridicainteramericana.com/stuff/godkong.mp4
 #EXTINF:-1 tvg-logo="https://editorialge.com/wp-content/uploads/2021/11/Kung-Fu-Panda-4.jpg" group-title="MOVIES ESTRENOS HD",KUNG FU PANDA 4
