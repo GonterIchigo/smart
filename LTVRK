@@ -719,20 +719,22 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/33
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",Back to back
-https://www.polimorhdd.online/stuff/amy.mp4
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",La primera profecia
+#EXTINF:-1 tvg-logo="https://www.cweb.com/wp-content/uploads/2024/03/garfield-1.jpg" group-title="MOVIES ESTRENOS HD",GARFIELD
+https://www.polimorhdd.online/stuff/garfield.mp4
+#EXTINF:-1 tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2024/05/Atlas-Netflix-Review.jpg" group-title="MOVIES ESTRENOS HD",ATLAS
+http://vod.tuxchannel.mx/peliculas/720/atlas%202024.mkv
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mNhWMRE8IC0/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",LA PRIMERA PROFECIA
 https://www.polimor.club/movies/profecia.mp4
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",Sourk park
+#EXTINF:-1 tvg-logo="https://th.bing.com/th?id=OIF.eUEumUqe74ekF9qP5%2b%2fvIw&rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",SOUTH PARK: EL FIN DE LA OBESIDAD
 https://www.polimorhdd.online/stuff/cartman.mp4
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",Boys kill  world 
-https://www.polimorhdd.online/stuff/boy.mp4
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",Klammer
-https://www.polimorhdd.online/stuff/klammer.mp4
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",Rivales
-https://www.ciudadmaderas.club/stuff/desafiantes.mp4
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",Darkness of man 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tl8k3g69jpE/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",DARKNESS OF MAN 
 https://www.ciudadmaderas.club/stuff/dark.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Zw5OulAAXgE/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",KLAMMER: ROZANDO EL LIMITE
+https://www.polimorhdd.online/stuff/klammer.mp4
+#EXTINF:-1 tvg-logo="https://dx35vtwkllhj9.cloudfront.net/roadsideattractions/boy-kills-world/images/regions/us/share.jpg" group-title="MOVIES ESTRENOS HD",BOYS KILL WORLD
+https://www.polimorhdd.online/stuff/boy.mp4
+#EXTINF:-1 tvg-logo="https://dx35vtwkllhj9.cloudfront.net/studiocanalintl/back-to-black/images/regions/au/header.jpg" group-title="MOVIES ESTRENOS HD",BACK TO BLACK
+http://vod.tuxchannel.mx/peliculas/720/back%20to%20black%202024.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VGXu4fl3HpQ/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",GARRA DE HIERRO
 http://vod.tuxchannel.mx/peliculas/720/the%20iron%20claw%202023.mkv
 #EXTINF:-1 tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/abigail/images/regions/ca/share.jpg" group-title="MOVIES ESTRENOS HD",ABIGAIL
