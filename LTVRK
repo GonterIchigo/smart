@@ -99,10 +99,6 @@ http://201.159.113.219:49000/play/a05l/index.m3u8
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/39
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/tlnovelas_m.png" group-title="NOVELAS",UNIVISION TLNOVELAS
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/40
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png" group-title="NOVELAS",GLITZ
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28014
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png" group-title="NOVELAS",GLITZ OP2 
-http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/62800
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="NOVELAS",TELEMUNDO INTERNACIONAL
 http://181.78.105.146:2000/play/a096/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="NOVELAS",TELEMUNDO INTERNACIONAL OP2 
@@ -149,7 +145,7 @@ http://177.53.153.20:8001/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="CULTURA",H2 OP2
 http://200.59.188.3:8000/play/a033
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1.png" group-title="CULTURA",DISCOVERY CHANNEL MX
-http://181.78.75.83:5013/play/a06g/index.m3u8
+http://201.222.44.220:4227/play/a02x/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1.png" group-title="CULTURA",DISCOVERY CHANNEL OP2
 http://200.59.188.3:8000/play/a031
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4dff12f1-efa0-4572-ada1-cf3e8cc13ede/dfv40t2-20a89fb2-7f4e-45d1-8037-046a348a90dd.png/v1/fill/w_1280,h_422/discovery_family__nexus_potential_logo__by_subwooferlabs_dfv40t2-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIyIiwicGF0aCI6IlwvZlwvNGRmZjEyZjEtZWZhMC00NTcyLWFkYTEtY2YzZThjYzEzZWRlXC9kZnY0MHQyLTIwYTg5ZmIyLTdmNGUtNDVkMS04MDM3LTA0NmEzNDhhOTBkZC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.i4J_wXHLaktlBFXd3QBpx03s8LVpAReGc3jDMi-qQQU" group-title="CULTURA",DISCOVERY FAMILY
