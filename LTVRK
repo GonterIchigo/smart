@@ -122,7 +122,7 @@ http://177.93.46.163:8000/play/a01n
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="NOVELAS",TELETICA
 http://00322.xyz:8000/live/saabj84/CNGUPDY6RA/125905.ts
 #EXTINF:-1 tvg-logo="https://media.telebajocero.com/adjuntos/225/imagenes/000/405/0000405645.jpg" group-title="NOVELAS",TELEFE
-http://elperrotv.online:80/12345678/12345678/585888
+http://00322.xyz:8000/live/saabj84/CNGUPDY6RA/3536.ts
 #EXTINF:-1 tvg-logo="https://media.telebajocero.com/adjuntos/225/imagenes/000/405/0000405645.jpg" group-title="NOVELAS",TELEFE OP2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 
