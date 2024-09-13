@@ -711,6 +711,18 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/33
 
+#EXTINF:-1 tvg-logo="https://www.nextgame.es/wp-content/uploads/2024/04/La-Trampa-Shyamalan-Trailer.jpg" group-title="MOVIES ESTRENOS HD",LA TRAMPA
+https://www.polimor.club/movies/trampa.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Pxml1ckGD84/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDWSGou_nkUPw3sjCkn8HW2-S4nKg" group-title="MOVIES ESTRENOS HD",REBEL RIDGE
+https://cinevallstorage.com/stuff/rebel.mp4
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p27684052_v_h11_aa.jpg?w=1280&h=720" group-title="MOVIES ESTRENOS HD",THE KILLER
+https://www.polimor.club/movies/killer.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1RM8dZTE9Bc/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",LONGLESS
+https://cinevallstorage.com/stuff/longless.mp4
+#EXTINF:-1 tvg-logo="https://avanzada.mx/wp-content/uploads/2024/04/correr-para-vivir.jpg" group-title="MOVIES ESTRENOS HD",CORRER PARA VIVIR
+https://cinevallstorage.com/stuff/correr.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/lpKx4bcx73scNNZ7q8JXdnS0RKJ.jpg" group-title="MOVIES ESTRENOS HD",BIENVENIDOS AL PARAISO
+https://cinevallstorage.com/stuff/paraiso.mp4
 #EXTINF:-1 tvg-logo="https://services.meteored.com/img/article/tornados-2024-la-pelicula-twister-estrena-un-nuevo-capitulo-luego-de-28-anos-mira-el-avance-1715679320174_1280.jpg" group-title="MOVIES ESTRENOS HD",TORNADOS
 http://vod.tuxchannel.mx/peliculas/720/twisters%202024.mkv
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-07-02/e_jackpot_07022024.jpg" group-title="MOVIES ESTRENOS HD",JACKPOT LOTERIA MORTAL
