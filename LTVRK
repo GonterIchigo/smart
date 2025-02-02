@@ -33,7 +33,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 HD
 https://sneoplus.vip:8443/play/4csat81f7AeFdCdwen9KauPyB4YAB0z4Xbsqo3cWqHA/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJ6v5ea.png" group-title="MEXICO",CANAL 5 HD OP 2 
-http://daleplay.club:8080/live/NNE5379khh/playec356nm/c2960d54-06fd-44bd-baaf-8e82438936fa.m3u
+http://daleplay.club:8080/live/NNE5379khh/playec356nm/c2960d54-06fd-44bd-baaf-8e82438936fa.m3u8
 #EXTINF:-1 tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="MEXICO",NU9VE
 https://sneoplus.vip:8443/play/4csat81f7AeFdCdwen9KanXdMzp_KSTITXlXI_wLo3c/ts
 #EXTINF:-1 tvg-logo="https://cdn140.picsart.com/278369393029211.png" group-title="MEXICO",NU9VE HD 
