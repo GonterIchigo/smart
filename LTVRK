@@ -711,8 +711,8 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/33
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",EL JARDINERO
-https://iptv-vall.com/stuff/jardinero.mp4
+#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",EL MONO
+https://iptv-vall.com/stuff/mono.mp4
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.cJI84jq_gkOXAs7xrFfPsAAAAA?rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",MUFASA
 https://canvasolutions.com.mx/stuff/mufasa.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pMIkaQQEBvQemptFPMU5XsblOXB.jpg" group-title="MOVIES ESTRENOS HD",PRESA
