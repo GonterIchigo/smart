@@ -712,7 +712,7 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/33
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",g20
-https://iptv-vall.com/stuff/g20.mp4
+http://iptv-vall.com/stuff/g20.mp4
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.cJI84jq_gkOXAs7xrFfPsAAAAA?rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",MUFASA
 https://canvasolutions.com.mx/stuff/mufasa.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pMIkaQQEBvQemptFPMU5XsblOXB.jpg" group-title="MOVIES ESTRENOS HD",PRESA
