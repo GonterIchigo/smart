@@ -711,10 +711,24 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/33
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",g20
-http://iptv-vall.com/stuff/g20.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/backdrop/327373239/s640/novocaine-sin-dolor" group-title="MOVIES ESTRENOS HD",NOVOCAINE: SIN DOLOR
+http://vod.tuxchannel.mx/peliculas/720/novocaine%202025.mkv
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.t0plHe4-DAeyD0KHibPjaAHaBa?rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",BETTER MAN: LA HISTORIA DE ROBBIE WILLIANS
+http://vod.tuxchannel.mx/peliculas/720/better%20man%202024.mkv
+#EXTINF:-1 tvg-logo="https://areajugones.sport.es/wp-content/uploads/2025/02/capitan-america-un-nuevo-mundo.jpg" group-title="MOVIES ESTRENOS HD",CAPITAN AMERICA: UN NUEVO MUNDO
+http://vod.tuxchannel.mx/peliculas/720/captain%20america%20brave%20new%20world%202025.mkv
+#EXTINF:-1 tvg-logo="http://vod.tuxchannel.mx/peliculas/720/memoir%20of%20a%20snail%202024.mkv" group-title="MOVIES ESTRENOS HD",MEMORIAS DE UN CARACOL
+http://vod.tuxchannel.mx/peliculas/720/memoir%20of%20a%20snail%202024.mkv
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p27955212_v_h8_aa.jpg?w=960&h=540" group-title="MOVIES ESTRENOS HD",BAGMAN
+http://vod.tuxchannel.mx/peliculas/720/bagman%202024.mkv
+#EXTINF:-1 tvg-logo="https://imagenes.elpais.com/resizer/v2/QS5ETOHJGZBDDJXHRFR7W6NUQY.jpg?auth=7eabc12f09d40dc9ceb772287b8ba07c8b05569076d62a18909be42f5495f1ed&width=1200" group-title="MOVIES ESTRENOS HD",ESTADO ELECTRICO
+http://vod.tuxchannel.mx/peliculas/720/the%20electric%20state%202025.mkv
+#EXTINF:-1 tvg-logo="https://www.accioncine.es/wp-content/uploads/2025/04/g20.jpg" group-title="MOVIES ESTRENOS HD",G20
+http://vod.tuxchannel.mx/peliculas/720/g20%202025.mkv
+#EXTINF:-1 tvg-logo="https://occ-0-3011-114.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABfARfiTtcy3ogrEwXSjtWiKmt0tg2mnAUb3X-eImPpLrSklun75NYisDxSQJoEbC7xhF0JkIAF5DFXBNQgPMNHxqjSgz9Wf96EGy.jpg?r=625" group-title="MOVIES ESTRENOS HD",PANICO EN EL TREN BALA
+http://vod.tuxchannel.mx/peliculas/720/shinkansen%20daibakuha%202025.mkv
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.cJI84jq_gkOXAs7xrFfPsAAAAA?rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",MUFASA
-https://canvasolutions.com.mx/stuff/mufasa.mp4
+http://vod.tuxchannel.mx/peliculas/720/mufasa%202024.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pMIkaQQEBvQemptFPMU5XsblOXB.jpg" group-title="MOVIES ESTRENOS HD",PRESA
 https://polimor.club/stuff/presa.mp4
 #EXTINF:-1 tvg-logo="https://freakingeek.com/wp-content/uploads/2025/02/DemonCity-Banniere-800x445.png" group-title="MOVIES ESTRENOS HD",DEMON CITY
