@@ -711,6 +711,26 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/33
 
+#EXTINF:-1 tvg-logo="https://6enpunto.mx/wp-content/uploads/2025/04/looney-toons-el-dia-que-la-tierra-exploto.jpg" group-title="MOVIES ESTRENOS HD",EL DIA QUE LA TIERRA EXLOTO
+https://canvasolutions.com.mx/stuff/looney.mp4
+#EXTINF:-1 tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2024/09/minecraft-movie-2025-pelicula-cine.jpg" group-title="MOVIES ESTRENOS HD",UNA PELICULA DE MINECRAFT
+http://vod.tuxchannel.mx/peliculas/720/a%20minecraft%20movie%202025.mkv
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.M6MoI7szyiy2nDmkmRkSTQHaD2?cb=iwc2&rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",UNTIL DAWN: UNA NOCHE DE TERROR
+http://vod.tuxchannel.mx/peliculas/720/until%20dawn%202025.mkv
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MSOo2nt9Oxc/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",LA CAIDA DEL VUELO 811
+http://tvlatino.club:2082/movie/383837SdSqLL/TMqb3xBHRZ4q/551446.mkv
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/backdrop/328305889/s640/uranus-2324" group-title="MOVIES ESTRENOS HD",URANUS 2324: SIEMPRE NOS ENCONTRAREMOS
+http://vod.tuxchannel.mx/peliculas/720/uranus%202324%202024.mkv
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.8JRxhv5GAxf4jkuJt2ozzQHaEK?cb=iwc2&rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",AZRAEL
+http://vod.tuxchannel.mx/peliculas/720/azrael%202024.mkv
+#EXTINF:-1 tvg-logo="https://www.comingsoon.net/wp-content/uploads/sites/3/2024/12/Screenshot_2023-11-29_at_10.38.54_AM_1200x675-2024-12-13T110708.640.jpg?w=1024" group-title="MOVIES ESTRENOS HD",TIEMPO DE GUERRA
+https://canvasolutions.com.mx/stuff/warfare.mp4
+#EXTINF:-1 tvg-logo="https://media.a24.com/p/0136a5fcb94389a983983afd213f7680/adjuntos/296/imagenes/009/528/0009528364/1200x675/smart/estragos-netflix-1jpg.jpg" group-title="MOVIES ESTRENOS HD",ESTRAGOS
+https://canvasolutions.com.mx/stuff/estragos.mp4
+#EXTINF:-1 tvg-logo="https://lacentral24.com/wp-content/uploads/2025/01/474534739_1133555031451481_8008653128690434304_n-1000x600.jpg" group-title="MOVIES ESTRENOS HD",DROP: AMENAZA ANONIMA
+https://canvasolutions.com.mx/stuff/drop.mp4
+#EXTINF:-1 tvg-logo="https://www.loslunesseriefilos.com/wp-content/uploads/2024/12/Blancanieves-2025-trailer.jpg" group-title="MOVIES ESTRENOS HD",BLANCA NIEVES
+http://vod.tuxchannel.mx/peliculas/720/snow%20white%202025.mkv
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/backdrop/327373239/s640/novocaine-sin-dolor" group-title="MOVIES ESTRENOS HD",NOVOCAINE: SIN DOLOR
 http://vod.tuxchannel.mx/peliculas/720/novocaine%202025.mkv
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.t0plHe4-DAeyD0KHibPjaAHaBa?rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",BETTER MAN: LA HISTORIA DE ROBBIE WILLIANS
