@@ -709,6 +709,30 @@ http://51.222.43.170:8001/cristiancl/cirtianiptv/282467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/1200px-Milenio_%282018-10-27%29.svg.png" group-title="NOTICIAS",MILENIO
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/33
 
+#EXTINF:-1 tvg-logo="https://images.hdqwalls.com/download/superman-official-poster-2025-ef-1920x1080.jpg" group-title="MOVIES ESTRENOS HD",SUPERMAN
+https://canvasolutions.com.mx/stuff/super.mp4
+#EXTINF:-1 tvg-logo="https://almomento.mx/wp-content/uploads/2025/02/Jurassic-World-Renace-trailer.jpeg" group-title="MOVIES ESTRENOS HD",JURASSIC WORLD: RENACE
+http://vod.tuxchannel.mx/peliculas/720/jurassic%20world%20rebirth%202025.mkv
+#EXTINF:-1 tvg-logo="https://static.tiempo.com.mx/uploads/imagen/imagen/688884/principal_fotojet-5.jpg" group-title="MOVIES ESTRENOS HD",LOS 4 FANTASTICOS: PRIMEROS PASOS
+http://vod.tuxchannel.mx/peliculas/720/the%20fantastic%20four%20first%20steps%202025.mkv
+#EXTINF:-1 tvg-logo="https://www.sopitas.com/wp-content/uploads/2025/03/f1-pelicula-brad-pitt-fecha-estreno.jpg" group-title="MOVIES ESTRENOS HD",F1: LA PELICULA
+https://canvasolutions.com.mx/stuff/f1.mp4
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/oblMFLas-720.jpg" group-title="MOVIES ESTRENOS HD",LA HORA DE LA DESAPARICION
+http://vod.tuxchannel.mx/peliculas/720/weapons%202025.mkv
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.C8IH-d8OOBVesLB8qw8mUwHaCt?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="MOVIES ESTRENOS HD",EXTERMINIO LA EVOLUCION
+http://vod.tuxchannel.mx/peliculas/720/28%20years%20later%202025.mkv
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p28999914_v_h8_aa.jpg?w=1280&h=720" group-title="MOVIES ESTRENOS HD",LA MUERTE DE UN UNICORNIO
+http://vod.tuxchannel.mx/peliculas/720/death%20of%20a%20unicorn%202025.mkv
+#EXTINF:-1 tvg-logo="https://xeva.com.mx/contenidos/imagenes/noticias/standard/2025/07/267039xeva20250728210936.webp" group-title="MOVIES ESTRENOS HD",HAPPY GILMORE 2
+http://vod.tuxchannel.mx/peliculas/720/happy%20gilmore%202%202025.mkv
+#EXTINF:-1 tvg-logo="https://www.yellowbreak.com/wp-content/uploads/2024/11/tipos-malos-2.png" group-title="MOVIES ESTRENOS HD",LOS TIPOS MALOS 2
+http://vod.tuxchannel.mx/peliculas/720/the%20bad%20guys%202%202025.mkv
+#EXTINF:-1 tvg-logo="https://images.hdqwalls.com/download/smurfs-movie-2025-7r-1280x720.jpg" group-title="MOVIES ESTRENOS HD",PITUFOS 2025
+http://vod.tuxchannel.mx/peliculas/720/smurfs%202025.mkv
+#EXTINF:-1 tvg-logo="https://www.infobae.com/resizer/v2/CLTEIHL25JCCJMOYJW7N6RQUFE.jpg?auth=dda23b336fecf09fcfd2f7c5db335d38a18423726b7cb9ea68c6ae38f38abf94&smart=true&width=992&height=558&quality=85" group-title="MOVIES ESTRENOS HD",OTRO VIERNES DE LOCOS
+http://vod.tuxchannel.mx/peliculas/720/freakier%20friday%202025.mkv
+#EXTINF:-1 tvg-logo="https://www.apple.com/mx/tv-pr/shows-and-films/s/snoopy-presents-a-summer-musical/images/show-home-graphic-header/key-art-02/4x1/Apple_TV_Snoopy_Presents_Summer_Camp_key_art_graphic_header_4_1_show_home.jpg.large.jpg" group-title="MOVIES ESTRENOS HD",SNOOPY PRESENTA: UN VERANO MUSICAL
+http://vod.tuxchannel.mx/peliculas/720/snoopy%20presents%20a%20summer%20musical%202025.mkv
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.ee04352f793e3918c6a94865ad355979?rik=CZAFrc183hwgcg&riu=http%3a%2f%2fimg.youtube.com%2fvi%2fliGB1ssYn38%2fmaxresdefault.jpg&ehk=8uNqg%2bUl7q20SD%2fki%2b5raoNmf5HoVUuglMXn4mX1l%2fg%3d&risl=&pid=ImgRaw&r=0" group-title="MOVIES ESTRENOS HD",COMO ENTRENAR A TU DRAGON
 https://canvasolutions.com.mx/stuff/dragon.mp4
 #EXTINF:-1 tvg-logo="https://www.sonypictures.com.mx/sites/mexico/files/2025-04/KARATEKID_2572x1100.jpg" group-title="MOVIES ESTRENOS HD",KARATE KID LEYENDAS
