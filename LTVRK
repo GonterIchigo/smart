@@ -243,7 +243,7 @@ http://104.238.222.251:8989/278507_.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png" group-title="ENTRETENIMIENTO PREMIUM",HBO FAMILY
 http://user.tvcluboficial.com/live/m/m/63.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png" group-title="ENTRETENIMIENTO PREMIUM",HBO FAMILY OP2
-http://stklatino.dynns.com:2082/azplay1682/9010383728/2644
+http://clubtv.link/05sep/phpcode/lista0.php?c=22&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="ENTRETENIMIENTO PREMIUM",HBO MUNDI
 http://104.238.222.251:8989/278500_.m3u8 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="ENTRETENIMIENTO PREMIUM",HBO MUNDI OP2
