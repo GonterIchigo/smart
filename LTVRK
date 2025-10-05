@@ -41,7 +41,7 @@ http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/230603.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Galavisi%C3%B3n_logo2012.png" group-title="MEXICO",GALAVISION
 http://tv14s.xyz:8080/FxQ7fU/508292/58770
 #EXTINF:-1 tvg-logo="https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png" group-title="MEXICO",UNIVISION MIAMI
-http://user.tvcluboficial.com/live/m/m/99.m3u8
+http://user.tvcluboficial.com/live/u/u/99.m3u8
 #EXTINF:-1 tvg-logo="https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png" group-title="MEXICO",UNIVISION LOS ANGELES
 http://tv14s.xyz:8080/FxQ7fU/508292/108248
 #EXTINF:-1 tvg-logo="https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png" group-title="MEXICO",UNIVISION
@@ -84,7 +84,7 @@ http://tvlatino.club:2082/live/383837SdSqLL/TMqb3xBHRZ4q/539952.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="NOVELAS",AZ CORAZÓN OP2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/7b/b9/1754376d4e608523ff87670c7a4e/canalu.png" group-title="NOVELAS",UNICABLE
-http://user.tvcluboficial.com/live/m/m/98.m3u8
+http://user.tvcluboficial.com/live/u/u/98.m3u8
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/7b/b9/1754376d4e608523ff87670c7a4e/canalu.png" group-title="NOVELAS",UNICABLE HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302738
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="NOVELAS",PASIONES
@@ -94,9 +94,9 @@ http://199.127.63.143:8989/278404_.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png" group-title="NOVELAS",PASIONES OP 3
 http://200.115.98.26:9000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s400/rojo.png" group-title="NOVELAS",TLNOVELAS 
-http://user.tvcluboficial.com/live/m/m/94.m3u8
+http://user.tvcluboficial.com/live/u/u/94.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/tlnovelas_m.png" group-title="NOVELAS",UNIVISION TLNOVELAS
-http://user.tvcluboficial.com/live/m/m/413.m3u8
+http://user.tvcluboficial.com/live/u/u/413.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="NOVELAS",TELEMUNDO INTERNACIONAL
 http://160.20.165.246:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="NOVELAS",TELEMUNDO INTERNACIONAL OP2 
@@ -139,7 +139,7 @@ http://104.194.8.54:8989/278631_.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" group-title="CULTURA",HISTORY PREMIUM 
 http://177.93.46.163:8000/play/a006
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="CULTURA",H2
-http://user.tvcluboficial.com/live/m/m/61.m3u8
+http://200.115.98.26:9000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" group-title="CULTURA",H2 OP2
 http://200.115.98.26:9000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1.png" group-title="CULTURA",DISCOVERY CHANNEL MX
@@ -163,7 +163,7 @@ http://190.60.37.154:45000/play/a04s/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png" group-title="CULTURA",DISCOVERY TURBO OP 2
 http://200.59.188.3:8000/play/a045
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",DISCOVERY WORLD
-http://user.tvcluboficial.com/live/m/m/187.m3u8
+http://104.194.8.54:8989/278625_.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",DISCOVERY WORLD OP 2
 http://104.194.8.54:8989/278625_.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="CULTURA",DISCOVERY ID
@@ -180,7 +180,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/65
 http://38.43.150.125:8000/play/a022/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-6TeTUuHgsxI/VrV2aR1efMI/AAAAAAAAGs0/f-yRhAXo-RU/s640/Tooncas_logo_jpg.png" group-title="CARTOONS",TOONCAST
-http://user.tvcluboficial.com/live/m/m/95.m3u8
+http://200.115.120.1:8000/play/ca090/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-6TeTUuHgsxI/VrV2aR1efMI/AAAAAAAAGs0/f-yRhAXo-RU/s640/Tooncas_logo_jpg.png" group-title="CARTOONS",TOONCAST OP 2
 http://200.115.120.1:8000/play/ca090/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="CARTOONS",DISCOVERY KIDS MX
@@ -308,7 +308,7 @@ http://199.127.63.105:8989/278519_.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="ENTRETENIMIENTO",TNT OP2
 http://user.tvcluboficial.com/live/m/m/179.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TNT_Serie.svg/649px-TNT_Serie.svg.png" group-title="ENTRETENIMIENTO",TNT SERIES
-http://user.tvcluboficial.com/live/m/m/90.m3u8
+http://200.115.120.1:8000/play/ca035/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TNT_Serie.svg/649px-TNT_Serie.svg.png" group-title="ENTRETENIMIENTO",TNT SERIES OP2
 http://200.115.120.1:8000/play/ca035/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png" group-title="ENTRETENIMIENTO",SPACE
@@ -712,11 +712,11 @@ http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/33
 #EXTINF:-1 tvg-logo="https://images.hdqwalls.com/download/superman-official-poster-2025-ef-1920x1080.jpg" group-title="MOVIES ESTRENOS HD",SUPERMAN
 https://canvasolutions.com.mx/stuff/super.mp4
 #EXTINF:-1 tvg-logo="https://almomento.mx/wp-content/uploads/2025/02/Jurassic-World-Renace-trailer.jpeg" group-title="MOVIES ESTRENOS HD",JURASSIC WORLD: RENACE
-http://vod.tuxchannel.mx/peliculas/720/jurassic%20world%20rebirth%202025.mkv
+http://84.54.185.70:8022/Moves%202025/Jurassic.World.Rebirth.2025.MULTi.1080p.HDTS-SyncUP/Jurassic.World.Rebirth.2025.MULTi.1080p.HDTS-SyncUP.mkv
 #EXTINF:-1 tvg-logo="https://static.tiempo.com.mx/uploads/imagen/imagen/688884/principal_fotojet-5.jpg" group-title="MOVIES ESTRENOS HD",LOS 4 FANTASTICOS: PRIMEROS PASOS
 http://vod.tuxchannel.mx/peliculas/720/the%20fantastic%20four%20first%20steps%202025.mkv
 #EXTINF:-1 tvg-logo="https://www.sopitas.com/wp-content/uploads/2025/03/f1-pelicula-brad-pitt-fecha-estreno.jpg" group-title="MOVIES ESTRENOS HD",F1: LA PELICULA
-https://canvasolutions.com.mx/stuff/f1.mp4
+http://84.54.185.70:8022/Moves%202025/F1%20The%20Movie%202025%201080p%20WEB-DL%20AAC2%200%20H%20264-TTL.mkv
 #EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/oblMFLas-720.jpg" group-title="MOVIES ESTRENOS HD",LA HORA DE LA DESAPARICION
 http://vod.tuxchannel.mx/peliculas/720/weapons%202025.mkv
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.C8IH-d8OOBVesLB8qw8mUwHaCt?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="MOVIES ESTRENOS HD",EXTERMINIO LA EVOLUCION
@@ -736,15 +736,15 @@ http://vod.tuxchannel.mx/peliculas/720/snoopy%20presents%20a%20summer%20musical%
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.ee04352f793e3918c6a94865ad355979?rik=CZAFrc183hwgcg&riu=http%3a%2f%2fimg.youtube.com%2fvi%2fliGB1ssYn38%2fmaxresdefault.jpg&ehk=8uNqg%2bUl7q20SD%2fki%2b5raoNmf5HoVUuglMXn4mX1l%2fg%3d&risl=&pid=ImgRaw&r=0" group-title="MOVIES ESTRENOS HD",COMO ENTRENAR A TU DRAGON
 https://canvasolutions.com.mx/stuff/dragon.mp4
 #EXTINF:-1 tvg-logo="https://www.sonypictures.com.mx/sites/mexico/files/2025-04/KARATEKID_2572x1100.jpg" group-title="MOVIES ESTRENOS HD",KARATE KID LEYENDAS
-http://vod.tuxchannel.mx/peliculas/720/karate%20kid%20legends%202025.mkv
+http://84.54.185.70:8022/Moves%202025/Karate.Kid.Legends.2025.576p.WEBRip.x265.AC3-TuKCo/Karate.Kid.Legends.2025.576p.WEBRip.x265.AC3-TuKCo.mkv
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.9QxOilpcyy_fNi9K8GXnkAHaDq?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="MOVIES ESTRENOS HD",DESTINO FINAL: LAZOS DE SANGRE
-http://vod.tuxchannel.mx/peliculas/720/final%20destination%20bloodlines%202025.mkv
+http://84.54.185.70:8022/Moves%202025/Final%20Destination%20Bloodlines%202025%20Hybrid%201080p%20UHD%20BluRay%20DD+5.1%20Atmos%20x265-HiDt.mkv
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTAYuj8K7YE/mqdefault.jpg" group-title="MOVIES ESTRENOS HD",MEGAN 2.0
-https://canvasolutions.com.mx/stuff/megan.mp4
+http://84.54.185.70:8022/Moves%202025/M3GAN.2.0.2025.576p.WEBRip.x265.DD5.1-TuKCo/M3GAN.2.0.2025.576p.WEBRip.x265.DD5.1-TuKCo.mkv
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.TSpLGKYc3ohq1Sq_vopgygHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="MOVIES ESTRENOS HD",BAILARINA
-https://canvasolutions.com.mx/stuff/bailarina.mp4
+http://84.54.185.70:8022/Moves%202025/Ballerina.2025.1080p.Blu-ray.Remux.AVC.TrueHD.Atmos.7.1-CiNEPHiLES.mkv
 #EXTINF:-1 tvg-logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/05/bolts.jpg" group-title="MOVIES ESTRENOS HD",THUNDERBOLTS
-http://vod.tuxchannel.mx/peliculas/720/thunderbolts%202025.mkv
+http://84.54.185.70:8022/Moves%202025/Thunderbolts.2025.576p.WEBRip.x265.AC3-TuKCo/Thunderbolts.2025.576p.WEBRip.x265.AC3-TuKCo.mkv
 #EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2025/04/jefes-estado-4318247.jpg?tf=3840x" group-title="MOVIES ESTRENOS HD",JEFES DE ESTADO
 http://vod.tuxchannel.mx/peliculas/720/heads%20of%20state%202025.mkv
 #EXTINF:-1 tvg-logo="https://fmglobo.com/u/fotografias/m/2025/6/8/f1280x720-32038_163713_5050.jpg" group-title="MOVIES ESTRENOS HD",HARTA
@@ -760,7 +760,7 @@ http://vod.tuxchannel.mx/peliculas/720/zombies%204%20dawn%20of%20the%20vampires%
 #EXTINF:-1 tvg-logo="https://6enpunto.mx/wp-content/uploads/2025/04/looney-toons-el-dia-que-la-tierra-exploto.jpg" group-title="MOVIES ESTRENOS HD",EL DIA QUE LA TIERRA EXLOTO
 https://canvasolutions.com.mx/stuff/looney.mp4
 #EXTINF:-1 tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2024/09/minecraft-movie-2025-pelicula-cine.jpg" group-title="MOVIES ESTRENOS HD",UNA PELICULA DE MINECRAFT
-http://vod.tuxchannel.mx/peliculas/720/a%20minecraft%20movie%202025.mkv
+http://84.54.185.70:8022/Moves%202025/A.Minecraft.Movie.2025.1080p/A.Minecraft.Movie.2025.1080p.WEB.h264-ETHEL.mkv
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.M6MoI7szyiy2nDmkmRkSTQHaD2?cb=iwc2&rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",UNTIL DAWN: UNA NOCHE DE TERROR
 http://vod.tuxchannel.mx/peliculas/720/until%20dawn%202025.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MSOo2nt9Oxc/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",LA CAIDA DEL VUELO 811
@@ -872,7 +872,7 @@ https://castlempire.site:443/movie/esteb5982roj/CchZQLdGB3/364262.mkv
 #EXTINF:-1 tvg-logo="https://sgsonfilm.net/wp-content/uploads/2024/09/17684370.jpg" group-title="MOVIES ESTRENOS HD",BEETLEJUICE 2
 http://vod.tuxchannel.mx/peliculas/720/beetlejuice%20beetlejuice%202024.mkv
 #EXTINF:-1 tvg-logo="https://images.savoysystems.co.uk/KIW/30183090.jpg" group-title="MOVIES ESTRENOS HD",ALIEN ROMULUS
-http://vod.tuxchannel.mx/peliculas/720/alien%20romulus%202024.mkv
+http://84.54.185.70:8022/Moves%202025/Alien%20Romulus%202024%20Hybrid%201080p%20UHD%20BluRay%20DD+5.1%20Atmos%20DV%20HDR10+%20x265-HiDt.mkv
 #EXTINF:-1 tvg-logo="https://web-ticketing.novacinemas.cr/CDN/Image/Entity//FilmAdvertising/HO00001610?v=1" group-title="MOVIES ESTRENOS HD",LA SUSTANCIA
 https://www.polimor.club/movies/sustancia.mp4
 #EXTINF:-1 tvg-logo="https://www.funcinema.com.ar/wp-content/uploads/2024/09/horrores.jpg" group-title="MOVIES ESTRENOS HD",LOS HORRORES DE CADDO LAKE
