@@ -125,7 +125,7 @@ http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108795
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png" group-title="CULTURA",NACIONAL GEOGRAPHIC CHANNEL
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278637.m3u8
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3351
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png" group-title="CULTURA",NAT GEO OP 2 
 http://190.119.43.180:8000/play/a0s4/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/lovenatureca/logos/3p-logo._CB436453497_.png" group-title="CULTURA",LOVE NATURE
